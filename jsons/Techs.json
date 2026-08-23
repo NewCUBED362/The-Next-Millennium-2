@@ -124,5 +124,33 @@
         "prerequisites": ["Research VII"],
       }
     ]
+  },
+  {
+    "columnNumber": 9,
+    "era": "21st Century",
+    "techCost": 400,
+    "buildingCost": 25,
+    "wonderCost": 300,
+    "techs": [
+      {
+        "name": "Research IX",
+        "row": 1,
+        "prerequisites": ["Research VIII"],
+      }
+    ]
+  },
+  {
+    "columnNumber": 10,
+    "era": "21st Century",
+    "techCost": 500,
+    "buildingCost": 25,
+    "wonderCost": 300,
+    "techs": [
+      {
+        "name": "Research X",
+        "row": 1,
+        "prerequisites": ["Research IX"],
+      }
+    ]
   }
 ]
