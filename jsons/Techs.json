@@ -1,1 +1,15 @@
-
+[
+  {
+    "columnNumber": 0,
+    "era": "21st Century",
+    "techCost": 20,
+    "buildingCost": 25,
+    "wonderCost": 300,
+    "techs": [
+      {
+        "name": "New Millennium",
+        "row": 6,
+      }
+    ]
+  }
+]
