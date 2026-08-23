@@ -29,6 +29,6 @@
     "outerColor": [255,255,255],
     "innerColor": [0,50,160],
     "uniqueName": "Siberian Riches",
-    "cities": ["Moscow"],
+    "cities": ["Moscow","Saint Petersburg","Novosibirsk","Yekaterinburg","Kazan","Nizhny Novgorod","Chelyabinsk","Krasnoyarsk","Samara","Ufa"],
   }
 ]
