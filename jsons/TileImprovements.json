@@ -11,6 +11,7 @@
 		"name": "Pasture",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Flood plains"],
 		"turnsToBuild": 7,
+		"uniques": ["Can only be built to improve a resource"],
 		"shortcutKey": "P"
 	},
 	// Misc
