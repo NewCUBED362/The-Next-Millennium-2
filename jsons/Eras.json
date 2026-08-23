@@ -2,5 +2,9 @@
   {
     "name": "21st Century",
     "startingMilitaryUnit": "Basic Infantry",
+  },
+  {
+    "name": "Future era",
+    "startingMilitaryUnit": "Basic Infantry",
   }
 ]
