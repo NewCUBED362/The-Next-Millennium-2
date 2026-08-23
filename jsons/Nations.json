@@ -12,7 +12,8 @@
     "outerColor": [0,32,91],
     "innerColor": [255,255,255],
     "uniqueName": "Land of Opportunity",
-    "cities": ["Washington DC"],
+    "cities": ["Washington D.C.","New York","Los Angeles","Chicago","Houston","Phoenix","Philadelphia","San Antonio","San Diego","Dallas",
+               "Fort Worth"],
   },
   {
     "name": "Russian Federation",
