@@ -51,7 +51,7 @@
 		"food": 1,
 		"production": 1,
 		"movementCost": 1,
-		"RGB": [153, 180, 51],
+		"RGB": [120, 115, 95],
 		"uniques": ["Occurs at temperature between [-0.4] and [-0.1] and humidity between [0] and [0.2]",
             "Occurs at temperature between [-0.4] and [0.4] and humidity between [0.4] and [0.6]",
             "Occurs at temperature between [0.4] and [0.5] and humidity between [0.5] and [0.6]",
