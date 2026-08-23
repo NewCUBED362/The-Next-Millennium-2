@@ -1,4 +1,13 @@
 [
+	// Improvments
+	{
+		"name": "Farm",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Flood plains"],
+		"food": 1,
+		"turnsToBuild": 6,
+		"shortcutKey": "F"
+	},
+	// Misc
 	{
 		"name": "City ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
