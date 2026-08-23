@@ -24,8 +24,8 @@
     "defeated": "Congratulations. Instead of Russia... Your nation will go far.",
     "introduction": "Welcome to the Russian Federation.",
 
-    "outerColor": [0,0,0],
-    "innerColor": [249,249,249],
+    "outerColor": [255,255,255],
+    "innerColor": [0,50,160],
     "uniqueName": "Siberian Riches",
     "cities": ["Moscow"],
   }
