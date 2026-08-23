@@ -1,1 +1,32 @@
+[
+  {
+    "name": "United States",
+    "leaderName": "Donald Trump",
+    "startBias": ["Grassland","Hill"],
 
+    "declaringWar": "We have no choice, war it must be.",
+    "attacked": "Very well. This won't be forgotten.",
+    "defeated": "Congratulations. Instead of the United States of America... Your nation will go far.",
+    "introduction": "Welcome to the United States of America.",
+
+    "outerColor": [249,249,249],
+    "innerColor": [0,0,0],
+    "uniqueName": "Land of Opportunity",
+    "cities": ["Washington DC"],
+  },
+  {
+    "name": "Russian Federation",
+    "leaderName": "Vladimir Putin",
+    "startBias": ["Avoid [Desert]"],
+
+    "declaringWar": "We have no choice, war it must be.",
+    "attacked": "Very well. This won't be forgotten.",
+    "defeated": "Congratulations. Instead of Russia... Your nation will go far.",
+    "introduction": "Welcome to the Russian Federation.",
+
+    "outerColor": [0,0,0],
+    "innerColor": [249,249,249],
+    "uniqueName": "Siberian Riches",
+    "cities": ["Moscow"],
+  }
+]
