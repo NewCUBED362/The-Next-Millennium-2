@@ -1,0 +1,55 @@
+
+game.png
+size: 512, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Russian Federation
+  rotate: false
+  xy: 140, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/United States
+  rotate: false
+  xy: 276, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-21st Century
+  rotate: false
+  xy: 76, 60
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Basic Infantry
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/City center-21st Century
+  rotate: false
+  xy: 412, 159
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Basic Infantry
+  rotate: false
+  xy: 4, 40
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+UnitIcons/Basic Infantry
+  rotate: false
+  xy: 4, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
