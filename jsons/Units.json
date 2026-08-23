@@ -5,5 +5,17 @@
     "cost": 25,
     "movement": 2,
     "strength": 30,
+  },
+  {
+    "name": "Settler",
+    "unitType": "Civilian",
+    "cost": 40,
+    "movement": 2,
+  },
+  {
+    "name": "Worker",
+    "unitType": "Civilian",
+    "cost": 20,
+    "movement": 2,
   }
 ]
