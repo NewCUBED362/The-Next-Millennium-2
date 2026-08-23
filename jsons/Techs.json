@@ -152,5 +152,22 @@
         "prerequisites": ["Research IX"],
       }
     ]
+  },
+  {
+    "columnNumber": 11,
+    "era": "Future era",
+    "techCost": 800,
+    "buildingCost": 25,
+    "wonderCost": 300,
+    "techs": [
+      {
+        "name": "Future Tech",
+        "row": 6,
+        "prerequisites": ["Research X"],
+        "uniques": ["Can be continually researched"],
+    	  "quote": "'I think we agree, the past is over.' - George W. Bush",
+        "civilopediaText": [{"text": "Who knows what the future holds?"}]
+      }
+    ]
   }
 ]
