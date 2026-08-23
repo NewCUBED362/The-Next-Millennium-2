@@ -1,1 +1,9 @@
-
+[
+  {
+    "name": "Basic Infantry",
+    "unitType": "Rifles",
+    "cost": 25,
+    "movement": 2,
+    "strength": 30,
+  }
+]
