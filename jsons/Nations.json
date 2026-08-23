@@ -28,7 +28,7 @@
 
     "outerColor": [255,255,255],
     "innerColor": [0,50,160],
-    "uniqueName": "Siberian Riches",
+    "uniqueName": "Mother Russia",
     "cities": ["Moscow","Saint Petersburg","Novosibirsk","Yekaterinburg","Kazan","Nizhny Novgorod","Chelyabinsk","Krasnoyarsk","Samara","Ufa",
                "Rostov-on-Don","Omsk","Krasnodar","Voronezh","Perm","Volgograd","Saratov","Tyumen","Tolyatti","Barnaul",
                "Izhevsk","Makhachkala","Khabarovsk","Ulyanovsk","Irkutsk","Vladivostok","Yaroslavl","Kemerovo","Tomsk","Naberezhnye Chelny"],
