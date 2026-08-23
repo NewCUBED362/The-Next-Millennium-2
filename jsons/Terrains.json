@@ -14,7 +14,7 @@
 		"food": 1,
         "gold": 1,
 		"movementCost": 1,
-		"RGB": [70, 138, 216],
+		"RGB": [78, 98, 157],
 		"uniques": ["[+2] to Fertility for Map Generation",
             "Considered [Desirable] when determining start locations <on water maps>",
             "Every [60] tiles with this terrain will receive a major deposit of a strategic resource.",
