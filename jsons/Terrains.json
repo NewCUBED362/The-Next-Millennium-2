@@ -142,7 +142,7 @@
 		"name": "Snow",
 		"type": "Land",
 		"movementCost": 1,
-		"RGB": [230, 238, 255], //Darker229, 229, 255
+		"RGB": [251, 255, 255], //Darker229, 229, 255
 		"uniques": [
             "Occurs at temperature between [-1] and [-0.9] and humidity between [0] and [1]",
             "Occurs at temperature between [-0.9] and [-0.8] and humidity between [0] and [0.8]",
