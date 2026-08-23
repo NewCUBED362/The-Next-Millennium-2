@@ -9,6 +9,7 @@
       {
         "name": "New Millennium",
         "row": 6,
+        "uniques": ["Starting tech"],
       }
     ]
   }
