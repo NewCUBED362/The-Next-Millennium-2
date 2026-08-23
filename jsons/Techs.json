@@ -12,5 +12,117 @@
         "uniques": ["Starting tech"],
       }
     ]
+  },
+  {
+    "columnNumber": 1,
+    "era": "21st Century",
+    "techCost": 20,
+    "buildingCost": 25,
+    "wonderCost": 300,
+    "techs": [
+      {
+        "name": "Research I",
+        "row": 1,
+        "prerequisites": ["New Millennium"],
+      }
+    ]
+  },
+  {
+    "columnNumber": 2,
+    "era": "21st Century",
+    "techCost": 40,
+    "buildingCost": 25,
+    "wonderCost": 300,
+    "techs": [
+      {
+        "name": "Research II",
+        "row": 1,
+        "prerequisites": ["Research I"],
+      }
+    ]
+  },
+  {
+    "columnNumber": 3,
+    "era": "21st Century",
+    "techCost": 70,
+    "buildingCost": 25,
+    "wonderCost": 300,
+    "techs": [
+      {
+        "name": "Research III",
+        "row": 1,
+        "prerequisites": ["Research II"],
+      }
+    ]
+  },
+  {
+    "columnNumber": 4,
+    "era": "21st Century",
+    "techCost": 110,
+    "buildingCost": 25,
+    "wonderCost": 300,
+    "techs": [
+      {
+        "name": "Research IV",
+        "row": 1,
+        "prerequisites": ["Research III"],
+      }
+    ]
+  },
+  {
+    "columnNumber": 5,
+    "era": "21st Century",
+    "techCost": 160,
+    "buildingCost": 25,
+    "wonderCost": 300,
+    "techs": [
+      {
+        "name": "Research V",
+        "row": 1,
+        "prerequisites": ["Research IV"],
+      }
+    ]
+  },
+  {
+    "columnNumber": 6,
+    "era": "21st Century",
+    "techCost": 220,
+    "buildingCost": 25,
+    "wonderCost": 300,
+    "techs": [
+      {
+        "name": "Research VI",
+        "row": 1,
+        "prerequisites": ["Research V"],
+      }
+    ]
+  },
+  {
+    "columnNumber": 7,
+    "era": "21st Century",
+    "techCost": 290,
+    "buildingCost": 25,
+    "wonderCost": 300,
+    "techs": [
+      {
+        "name": "Research VII",
+        "row": 1,
+        "prerequisites": ["Research VI"],
+      }
+    ]
+  },
+  {
+    "columnNumber": 8,
+    "era": "21st Century",
+    "techCost": 450,
+    "buildingCost": 25,
+    "wonderCost": 300,
+    "techs": [
+      {
+        "name": "Research VIII",
+        "row": 1,
+        "prerequisites": ["Research VII"],
+      }
+    ]
   }
 ]
