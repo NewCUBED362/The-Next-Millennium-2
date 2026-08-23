@@ -7,6 +7,12 @@
 		"turnsToBuild": 6,
 		"shortcutKey": "F"
 	},
+	{
+		"name": "Pasture",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Flood plains"],
+		"turnsToBuild": 7,
+		"shortcutKey": "P"
+	},
 	// Misc
 	{
 		"name": "City ruins",
