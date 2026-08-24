@@ -79,6 +79,7 @@
     "outerColor": [238,28,37],
     "innerColor": [255,255,0],
     "uniqueName": "March of the Volunteers",
-    "cities": ["Beijing","Shanghai","Shenzhen","Guangzhou","Chengdu","Tianjin","Wuhan","Dongguan","Chongqing","Xi'an"]
+    "cities": ["Beijing","Shanghai","Shenzhen","Guangzhou","Chengdu","Tianjin","Wuhan","Dongguan","Chongqing","Xi'an",
+               "Hangzhou","Foshan","Nanjing","Shenyang","Zhengzhou","Qingdao","Suzhou","Jinan","Changsha","Kunming"]
   }
 ]
