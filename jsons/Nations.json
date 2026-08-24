@@ -9,7 +9,7 @@
     "defeated": "Congratulations. Instead of the United States of America... Your nation will go far.",
     "introduction": "Welcome to the United States of America. If you conduct yourself well, you can consider us friends.",
 
-    "neutalHello": "Good day.",
+    "neutralHello": "Good day.",
     "hateHello": "Well?",
     "tradeRequest": "Is the following trade of interest to you?",
 
@@ -30,7 +30,7 @@
     "defeated": "I am defeated. To live one's life is not like crossing a field.",
     "introduction": "Hello, I am Vladimir Putin. A worthy ruler such as yourself must appreciate all the most exquisite things, yes?",
 
-    "neutalHello": "Hello!",
+    "neutralHello": "Hello!",
     "hateHello": "What do you need?!",
     "tradeRequest": "How would you like it if I propose this kind of exchange?",
 
@@ -51,7 +51,7 @@
     "defeated": "Well, this is embarrassing. Still, one mustn't dwell.",
     "introduction": "It is quite nice to meet you. I am Andy Burnham, Prime Minister of the United Kingdom of Great Britain and Northern Ireland.",
 
-    "neutalHello": "Greetings.",
+    "neutralHello": "Greetings.",
     "hateHello": "What is it?",
     "tradeRequest": "Let us attempt something increasingly rare in international affairs: a mutually sensible agreement.",
 
@@ -75,9 +75,11 @@
     "hateDenouncing": "Once again, your actions confirm what experience has already taught us: your promises carry little weight.",
     "introduction": "Greetings. I am Xi Jinping of China. Our nation has endured the rise and fall of countless ages, and we now stand at the threshold of a new era. Let us see whether our nations may advance together.",
 
-    "neutalHello": "Hello.",
+    "neutralHello": "Hello.",
     "hateHello": "What do you want?",
     "tradeRequest": "Development is not a privilege to be hoarded. Let our nations pursue prosperity through cooperation.",
+    "neutralRejectingDemand": "We have considered your request carefully. However, China's interests require that we decline.",
+    "hateRejectingDemand": "You are in no position to dictate China's decisions. Your demand is rejected.",
 
     "outerColor": [238,28,37],
     "innerColor": [255,255,0],
