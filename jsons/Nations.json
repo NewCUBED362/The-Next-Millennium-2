@@ -40,5 +40,24 @@
     "cities": ["Moscow","Saint Petersburg","Novosibirsk","Yekaterinburg","Kazan","Nizhny Novgorod","Chelyabinsk","Krasnoyarsk","Samara","Ufa",
                "Rostov-on-Don","Omsk","Krasnodar","Voronezh","Perm","Volgograd","Saratov","Tyumen","Tolyatti","Barnaul",
                "Izhevsk","Makhachkala","Khabarovsk","Ulyanovsk","Irkutsk","Vladivostok","Yaroslavl","Kemerovo","Tomsk","Naberezhnye Chelny"],
+  },
+  {
+    "name": "United Kingdom",
+    "leaderName": "Andy Burnham",
+    "startBias": ["Coast"],
+
+    "declaringWar": "It is always unfortunate when words fail. Fortunately, we have prepared for that possibility.",
+    "attacked": "Well. That is rather disappointing.",
+    "defeated": "Well, this is embarrassing. Still, one mustn't dwell.",
+    "introduction": "It is quite nice to meet you. I am Andy Burnham, Prime Minister of the United Kingdom of Great Britain and Northern Ireland.",
+
+    "neutalHello": "Greetings.",
+    "hateHello": "What is it?",
+    "tradeRequest": "How would you like it if I propose this kind of exchange?",
+
+    "outerColor": [255,255,255],
+    "innerColor": [0,50,160],
+    "uniqueName": "Great Britian",
+    "cities": ["London"],
   }
 ]
