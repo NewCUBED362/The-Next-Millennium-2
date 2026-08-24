@@ -2,9 +2,13 @@
   {
     "name": "21st Century",
     "startingMilitaryUnit": "Basic Infantry",
+    "citySound": "cityModern",
+    "iconRGB": [76,176,81],
   },
   {
     "name": "Future era",
     "startingMilitaryUnit": "Basic Infantry",
+    "citySound": "cityModern",
+    "iconRGB": [76,176,81],
   }
 ]
