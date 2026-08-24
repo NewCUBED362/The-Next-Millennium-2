@@ -29,6 +29,11 @@
         "name": "Economics I",
         "row": 2,
         "prerequisites": ["New Millennium"],
+      },
+      {
+        "name": "Growth I",
+        "row": 3,
+        "prerequisites": ["New Millennium"],
       }
     ]
   },
@@ -48,6 +53,11 @@
         "name": "Economics II",
         "row": 2,
         "prerequisites": ["Economics I"],
+      },
+      {
+        "name": "Growth II",
+        "row": 3,
+        "prerequisites": ["Growth I"],
       }
     ]
   },
@@ -67,6 +77,11 @@
         "name": "Economics III",
         "row": 2,
         "prerequisites": ["Economics II"],
+      },
+      {
+        "name": "Growth III",
+        "row": 3,
+        "prerequisites": ["Growth II"],
       }
     ]
   },
@@ -86,6 +101,11 @@
         "name": "Economics IV",
         "row": 2,
         "prerequisites": ["Economics III"],
+      },
+      {
+        "name": "Growth IV",
+        "row": 3,
+        "prerequisites": ["Growth III"],
       }
     ]
   },
@@ -105,6 +125,11 @@
         "name": "Economics V",
         "row": 2,
         "prerequisites": ["Economics IV"],
+      },
+      {
+        "name": "Growth V",
+        "row": 3,
+        "prerequisites": ["Growth IV"],
       }
     ]
   },
@@ -124,6 +149,11 @@
         "name": "Economics VI",
         "row": 2,
         "prerequisites": ["Economics V"],
+      },
+      {
+        "name": "Growth VI",
+        "row": 3,
+        "prerequisites": ["Growth V"],
       }
     ]
   },
@@ -143,6 +173,11 @@
         "name": "Economics VII",
         "row": 2,
         "prerequisites": ["Economics VI"],
+      },
+      {
+        "name": "Growth VII",
+        "row": 3,
+        "prerequisites": ["Growth VI"],
       }
     ]
   },
@@ -162,6 +197,11 @@
         "name": "Economics VIII",
         "row": 2,
         "prerequisites": ["Economics VII"],
+      },
+      {
+        "name": "Growth VIII",
+        "row": 3,
+        "prerequisites": ["Growth VII"],
       }
     ]
   },
@@ -181,6 +221,11 @@
         "name": "Economics IX",
         "row": 2,
         "prerequisites": ["Economics VIII"],
+      },
+      {
+        "name": "Growth IX",
+        "row": 3,
+        "prerequisites": ["Growth VIII"],
       }
     ]
   },
@@ -200,6 +245,11 @@
         "name": "Economics X",
         "row": 2,
         "prerequisites": ["Economics IX"],
+      },
+      {
+        "name": "Growth X",
+        "row": 3,
+        "prerequisites": ["Growth IX"],
       }
     ]
   },
@@ -213,7 +263,7 @@
       {
         "name": "Future Tech",
         "row": 6,
-        "prerequisites": ["Research X","Economics X"],
+        "prerequisites": ["Research X","Economics X","Growth X"],
         "uniques": ["Can be continually researched"],
     	  "quote": "'I think we agree, the past is over.' - George W. Bush",
         "civilopediaText": [{"text": "Who knows what the future holds?"}]
