@@ -1,4 +1,5 @@
 {
   "name": "GlobalUniques",
-  "uniques": [],
+  "uniques": ["[-100]% unhappiness from the number of cities",
+              "[-50]% Unhappiness from [Population] [in all cities]",],
 }
