@@ -76,8 +76,8 @@
     "hateHello": "What do you want?",
     "tradeRequest": "Development is not a privilege to be hoarded. Let our nations pursue prosperity through cooperation.",
 
-    "outerColor": [120,0,1],
-    "innerColor": [255,255,255],
+    "outerColor": [238,28,37],
+    "innerColor": [255,255,0],
     "uniqueName": "March of the Volunteers",
     "cities": ["Beijing"]
   }
