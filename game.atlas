@@ -46,30 +46,51 @@ TileSets/FantasyHex/Tiles/Grassland
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/GrasslandForest
+  rotate: false
+  xy: 196, 65
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle
+  rotate: false
+  xy: 236, 64
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Ocean
-  rotate: false
-  xy: 196, 68
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Plains
-  rotate: false
-  xy: 236, 68
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Snow
   rotate: false
   xy: 276, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Tundra
+TileSets/FantasyHex/Tiles/Plains
   rotate: false
   xy: 316, 68
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/PlainsForest
+  rotate: false
+  xy: 356, 64
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Snow
+  rotate: false
+  xy: 44, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra
+  rotate: false
+  xy: 452, 123
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
