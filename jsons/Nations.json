@@ -4,14 +4,14 @@
     "leaderName": "Donald Trump",
     "startBias": ["Grassland","Hill"],
 
-    "declaringWar": "I don't want war, but sometimes we have to.",
-    "attacked": "You dare stand in the way of the United States? I will bomb you to hell!",
-    "defeated": "Congratulations. Instead of the United States of America... Your nation will go far.",
-    "introduction": "Welcome to the United States of America. If you conduct yourself well, you can consider us friends.",
+    "declaringWar": "We gave you every chance to make a deal. You chose the hard way. Very bad decision.",
+    "attacked": "You made a very big mistake. America is strong, our people are strong, and you're going to find that out.",
+    "defeated": "We had a great run, and frankly, history will remember it. What you do with your victory, that’s your problem now.",
+    "introduction": "I’m Donald Trump, and I lead America. We have a great country, tremendous potential, and frankly, we’re going to do very well.",
 
     "neutralHello": "Good day.",
     "hateHello": "Well?",
-    "tradeRequest": "Is the following trade of interest to you?",
+    "tradeRequest": "Let’s make a deal. A fair deal, a strong deal—something that works for both of us, but especially for America.",
 
     "outerColor": [0,32,91],
     "innerColor": [255,255,255],
