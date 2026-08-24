@@ -59,6 +59,7 @@
     "innerColor": [255,255,255],
     "uniqueName": "Great Britian",
     "cities": ["London","Birmingham","Leeds","Glasgow","Manchester","Sheffield","Bradford","Edinburgh","Liverpool","Bristol",
-               "Cardiff","Leicester","Coventry","Wakefield","Belfast","Nottingham","Newcastle-upon-Tyne","Doncaster","Milton Keynes","Salford"]
+               "Cardiff","Leicester","Coventry","Wakefield","Belfast","Nottingham","Newcastle-upon-Tyne","Doncaster","Milton Keynes","Salford",
+               "Sunderland","Brighton and Hove","Wolverhampton","Kingston upon Hull","Plymouth","Derby","Stoke-on-Trent","Southampton","Swansea","Aberdeen"]
   }
 ]
