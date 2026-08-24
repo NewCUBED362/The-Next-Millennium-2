@@ -9,6 +9,10 @@
     "defeated": "Congratulations. Instead of the United States of America... Your nation will go far.",
     "introduction": "Welcome to the United States of America. If you conduct yourself well, you can consider us friends.",
 
+    "neutalHello": "Good day.",
+    "hateHello": "Well?",
+    "tradeRequest": "Is the following trade of interest to you?",
+
     "outerColor": [0,32,91],
     "innerColor": [255,255,255],
     "uniqueName": "Star-Spangled Banner",
