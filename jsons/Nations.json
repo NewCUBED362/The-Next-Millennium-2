@@ -58,6 +58,6 @@
     "outerColor": [120,0,1],
     "innerColor": [255,255,255],
     "uniqueName": "Great Britian",
-    "cities": ["London"],
+    "cities": ["London","Birmingham","Leeds","Glasgow","Manchester","Sheffield","Bradford","Edinburgh","Liverpool","Bristol"],
   }
 ]
