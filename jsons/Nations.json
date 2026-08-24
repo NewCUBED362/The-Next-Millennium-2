@@ -26,6 +26,10 @@
     "defeated": "I am defeated. To live one's life is not like crossing a field.",
     "introduction": "Hello, I am Vladimir Putin. A worthy ruler such as yourself must appreciate all the most exquisite things, yes?",
 
+    "neutalHello": "Hello!",
+    "hateHello": "What do you need?!",
+    "tradeRequest": "How would you like it if I propose this kind of exchange?",
+
     "outerColor": [255,255,255],
     "innerColor": [0,50,160],
     "uniqueName": "Mother Russia",
