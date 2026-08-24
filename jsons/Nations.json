@@ -55,8 +55,8 @@
     "hateHello": "What is it?",
     "tradeRequest": "How would you like it if I propose this kind of exchange?",
 
-    "outerColor": [255,255,255],
-    "innerColor": [0,50,160],
+    "outerColor": [120,0,1],
+    "innerColor": [255,255,255],
     "uniqueName": "Great Britian",
     "cities": ["London"],
   }
