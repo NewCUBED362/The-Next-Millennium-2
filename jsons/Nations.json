@@ -4,14 +4,14 @@
     "leaderName": "Donald Trump",
     "startBias": ["Grassland","Hill"],
 
-    "declaringWar": "We have no choice, war it must be.",
-    "attacked": "Very well. This won't be forgotten.",
+    "declaringWar": "I don't want war, but sometimes we have to.",
+    "attacked": "You dare stand in the way of the United States? I will bomb you to hell!",
     "defeated": "Congratulations. Instead of the United States of America... Your nation will go far.",
-    "introduction": "Welcome to the United States of America.",
+    "introduction": "Welcome to the United States of America. If you conduct yourself well, you can consider us friends.",
 
     "outerColor": [0,32,91],
     "innerColor": [255,255,255],
-    "uniqueName": "Land of Opportunity",
+    "uniqueName": "Star-Spangled Banner",
     "cities": ["Washington D.C.","New York","Los Angeles","Chicago","Houston","Phoenix","Philadelphia","San Antonio","San Diego","Dallas",
                "Fort Worth","Jacksonville","Austin","San Jose","Charlotte","Columbus","Indianapolis","San Francisco","Seattle","Denver",
                "Nashville","Oklahoma City","El Paso","Las Vegas","Boston","Detroit","Louisville","Portland","Memphis","Baltimore"],
@@ -19,12 +19,12 @@
   {
     "name": "Russian Federation",
     "leaderName": "Vladimir Putin",
-    "startBias": ["Avoid [Desert]"],
+    "startBias": ["Tundra"],
 
-    "declaringWar": "We have no choice, war it must be.",
-    "attacked": "Very well. This won't be forgotten.",
-    "defeated": "Congratulations. Instead of Russia... Your nation will go far.",
-    "introduction": "Welcome to the Russian Federation.",
+    "declaringWar": "It's time for us to go to war. We will be there in parade uniforms!",
+    "attacked": "Your war is futile. It's impossible to invade Russia! Whoever will come to us with a sword, from a sword will perish!",
+    "defeated": "I am defeated. To live one's life is not like crossing a field.",
+    "introduction": "Hello, I am Vladimir Putin. A worthy ruler such as yourself must appreciate all the most exquisite things, yes?",
 
     "outerColor": [255,255,255],
     "innerColor": [0,50,160],
