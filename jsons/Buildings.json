@@ -30,5 +30,15 @@
 		"name": "Workshop",
 		"production": 2,
 		"requiredTech": "Economics I",
+	},
+	{
+		"name": "Public School",
+		"science": 2,
+		"requiredTech": "Research I",
+	},
+	{
+	    "name": "Market",
+		"gold": 2,
+		"requiredTech": "Economics I",
 	}
 ]
