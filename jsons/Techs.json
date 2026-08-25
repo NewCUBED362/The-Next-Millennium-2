@@ -34,11 +34,13 @@
         "name": "Growth I",
         "row": 3,
         "prerequisites": ["New Millennium"],
+        "uniques": ["[+10]% [Food] [in all cities]"],
       },
       {
         "name": "Culture I",
         "row": 4,
         "prerequisites": ["New Millennium"],
+        "uniques": ["[+10]% [Culture] [in all cities]"],
       }
     ]
   },
@@ -53,6 +55,7 @@
         "name": "Research II",
         "row": 1,
         "prerequisites": ["Research I"],
+        "uniques": ["[+10]% [Science] [in all cities]"],
       },
       {
         "name": "Economics II",
