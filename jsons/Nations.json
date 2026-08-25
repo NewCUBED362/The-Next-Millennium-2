@@ -97,7 +97,7 @@
 
     "outerColor": [238,28,37],
     "innerColor": [255,255,0],
-    "uniqueName": "The Four Modernizations",
+    "uniqueName": "March of the Volunteers",
     "uniques": ["[-30]% construction time for [all] improvements",
                 "[+1 Gold] from [Farm] tiles [in all cities]"],
     "cities": ["Beijing","Shanghai","Shenzhen","Guangzhou","Chengdu","Tianjin","Wuhan","Dongguan","Chongqing","Xi'an",
