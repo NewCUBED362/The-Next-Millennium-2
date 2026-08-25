@@ -30,14 +30,14 @@
     "leaderName": "Vladimir Putin",
     "startBias": ["Tundra"],
 
-    "declaringWar": "It's time for us to go to war. We will be there in parade uniforms!",
-    "attacked": "Your war is futile. It's impossible to invade Russia! Whoever will come to us with a sword, from a sword will perish!",
-    "defeated": "I am defeated. To live one's life is not like crossing a field.",
-    "introduction": "Hello, I am Vladimir Putin. A worthy ruler such as yourself must appreciate all the most exquisite things, yes?",
+    "declaringWar": "We have stated our position clearly. You chose not to listen. Now events will proceed accordingly.",
+    "attacked": "So you have made your choice. Very well. Russia has endured greater trials than the one you now present.",
+    "defeated": "Russia has known difficult periods before. This is another chapter, not the end of the story.",
+    "introduction": "I am Vladimir Putin, President of the Russian Federation. Russia has known many trials throughout its history. We have learned to value those who speak plainly and respect those who stand firmly.",
 
     "neutralHello": "Hello!",
     "hateHello": "What do you need?!",
-    "tradeRequest": "How would you like it if I propose this kind of exchange?",
+    "tradeRequest": "Our nations have interests that may coincide. Where there is mutual benefit, there is reason to cooperate.",
 
     "outerColor": [255,255,255],
     "innerColor": [0,50,160],
