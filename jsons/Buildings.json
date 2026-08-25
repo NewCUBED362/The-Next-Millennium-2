@@ -13,18 +13,23 @@
 	{
 		"name": "Library",
 		"science": 1,
+		"cost": 50
 	},
 	{
 		"name": "Monument",
 		"culture": 1,
+		"cost": 50
+		
 	},
 	{
 		"name": "Park",
 		"happiness": 1,
+		"cost": 50,
 	},
 	{
 		"name": "Logging Camp",
 		"production": 1,
+		"cost": 25
 	},
 	{
 		"name": "Workshop",
