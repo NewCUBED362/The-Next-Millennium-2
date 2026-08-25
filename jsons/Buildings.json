@@ -23,7 +23,7 @@
 	},
 	{
 		"name": "Park",
-		"happiness": 1,
+		"happiness": 2,
 		"cost": 50,
 	},
 	{
@@ -49,12 +49,12 @@
 	{
 		"name": "Garden",
 		"food": 1,
-		"happiness": 1,
+		"happiness": 3,
 		"requiredTech": "Growth II",
 	},
 	{
 		"name": "Police Station",
-		"happiness": 2,
+		"happiness": 4,
 		"requiredTech": "Growth III",
 	}
 ]
