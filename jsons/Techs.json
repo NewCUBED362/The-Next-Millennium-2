@@ -41,6 +41,11 @@
         "row": 4,
         "prerequisites": ["New Millennium"],
         "uniques": ["[+10]% [Culture] [in all cities]"],
+      },
+      {
+        "name": "Land Forces I",
+        "row": 6,
+        "prerequisites": ["New Millennium"],
       }
     ]
   },
