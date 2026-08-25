@@ -29,6 +29,6 @@
 	{
 		"name": "Workshop",
 		"production": 2,
-		"requiredTech": "Industry I",
+		"requiredTech": "Economics I",
 	}
 ]
