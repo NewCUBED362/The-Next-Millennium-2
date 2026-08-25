@@ -8,6 +8,13 @@
 		"shortcutKey": "F"
 	},
 	{
+		"name": "Mine",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"shortcutKey": "M"
+	},
+	{
 		"name": "Pasture",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Hill","Flood plains"],
 		"turnsToBuild": 7,
