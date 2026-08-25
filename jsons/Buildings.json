@@ -56,12 +56,12 @@
 	{
 		"name": "Police Station",
 		"happiness": 4,
-		"requiredTech": "Growth III",
+		"requiredTech": "Growth II",
 	},
 	{
 		"name": "Research Lab",
 		"science": 5,
-		"requiredTech": "Research V",
+		"requiredTech": "Research VI",
 	},
 	{
 		"name": "University",
@@ -72,5 +72,10 @@
 		"name": "Stadium",
 		"happiness": 4,
 		"requiredTech": "Growth V",
+	},
+	{
+		"name": "Water Purification Plant",
+		"food": 3,
+		"requiredTech": "Growth IV",
 	}
 ]
