@@ -41,6 +41,8 @@
     "neutralHello": "Hello!",
     "hateHello": "What do you need?!",
     "tradeRequest": "Our nations have interests that may coincide. Where there is mutual benefit, there is reason to cooperate.",
+    "neutralRejectingDemand": "We have considered your demand. It does not correspond with Russia's interests, and we will therefore decline.",
+    "hateRejectingDemand": "Russia does not conduct its affairs according to ultimatums. Your demand is rejected.",
 
     "outerColor": [255,255,255],
     "innerColor": [0,50,160],
