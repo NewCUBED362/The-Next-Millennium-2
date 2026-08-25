@@ -23,5 +23,15 @@
     "movement": 2,
     "uniques": ["Can build [Land] improvements on tiles",
                 "Automation is a primary action"],
-  }
+  },
+  {
+    "name": "Machine Gun",
+    "unitType": "Ranged Rifles",
+    "cost": 45,
+    "movement": 2,
+    "strength": 28,
+    "rangedStrength": 35,
+    "range": 2,
+    "requiredTech": "Land Forces I",
+  } 
 ]
