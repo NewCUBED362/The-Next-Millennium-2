@@ -6,5 +6,9 @@
     {
         "name": "Rifles",
         "movementType": "Land"
+    },
+    {
+        "name": "Ranged Rifles",
+        "movementType": "Land"
     }
 ]
