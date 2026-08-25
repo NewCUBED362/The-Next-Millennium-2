@@ -57,5 +57,10 @@
 		"name": "Police Station",
 		"happiness": 4,
 		"requiredTech": "Growth III",
+	},
+	{
+		"name": "Research Lab",
+		"science": 5,
+		"requiredTech": "Research V",
 	}
 ]
