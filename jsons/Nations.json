@@ -33,6 +33,9 @@
     "declaringWar": "We have stated our position clearly. You chose not to listen. Now events will proceed accordingly.",
     "attacked": "So you have made your choice. Very well. Russia has endured greater trials than the one you now present.",
     "defeated": "Russia has known difficult periods before. This is another chapter, not the end of the story.",
+    "denounced": "Denunciations are easy. Governing a nation and defending its interests are more complicated matters.",
+    "neutralDenouncing": "Your actions have demonstrated that your words cannot be separated from your ambitions. We see this clearly now.",
+    "hateDenouncing": "We have heard your promises before and watched you break them. The pattern is no longer open to interpretation.",
     "introduction": "I am Vladimir Putin, President of the Russian Federation. Russia has known many trials throughout its history. We have learned to value those who speak plainly and respect those who stand firmly.",
 
     "neutralHello": "Hello!",
