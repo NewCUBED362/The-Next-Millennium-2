@@ -35,5 +35,16 @@
     "range": 2,
     "requiredTech": "Land Forces I",
     "attackSound": "machinegun",
-  } 
+  },
+  {
+    "name": "Artillery",
+    "unitType": "Siege",
+    "cost": 60,
+    "movement": 2,
+    "strength": 23,
+    "rangedStrength": 30,
+    "range": 2,
+    "requiredTech": "Land Forces II",
+    "attackSound": "artillery",
+  }
 ]
