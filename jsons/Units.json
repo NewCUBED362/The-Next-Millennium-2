@@ -5,6 +5,7 @@
     "cost": 25,
     "movement": 2,
     "strength": 30,
+    "attackSound": "shot",
   },
   {
     "name": "Settler",
@@ -33,5 +34,6 @@
     "rangedStrength": 35,
     "range": 2,
     "requiredTech": "Land Forces I",
+    "attackSound": "machinegun",
   } 
 ]
