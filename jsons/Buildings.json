@@ -6,6 +6,7 @@
 		"science": 3,
 		"gold": 3,
 		"culture": 1,
+		"happiness": 5,
 		"cityStrength": 2.5,
 		"cost": 0,
 		"uniques": ["Indicates the capital city"]
