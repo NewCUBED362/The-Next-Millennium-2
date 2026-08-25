@@ -76,8 +76,9 @@
 	},
 	{
 		"name": "Water Purification Plant",
-		"food": 3,
 		"requiredTech": "Growth IV",
+		"uniques": ["Consumes [1] [Power]",
+			        "[+10]% [Food] [in this city]"],
 	},
 	{
 		"name": "Shopping Mall",
