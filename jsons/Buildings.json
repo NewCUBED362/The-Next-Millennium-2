@@ -62,5 +62,15 @@
 		"name": "Research Lab",
 		"science": 5,
 		"requiredTech": "Research V",
+	},
+	{
+		"name": "University",
+		"science": 3,
+		"requiredTech": "Research III",
+	},
+	{
+		"name": "Stadium",
+		"happiness": 4,
+		"requiredTech": "Growth V",
 	}
 ]
