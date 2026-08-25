@@ -3,7 +3,7 @@
     "columnNumber": 0,
     "era": "21st Century",
     "techCost": 35,
-    "buildingCost": 25,
+    "buildingCost": 50,
     "wonderCost": 300,
     "techs": [
       {
@@ -17,7 +17,7 @@
     "columnNumber": 1,
     "era": "21st Century",
     "techCost": 35,
-    "buildingCost": 25,
+    "buildingCost": 50,
     "wonderCost": 300,
     "techs": [
       {
