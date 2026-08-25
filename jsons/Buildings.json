@@ -90,5 +90,11 @@
 		"name": "Bank",
 		"gold": 3,
 		"requiredTech": "Economics III",
+	},
+	{
+		"name": "Coal Power Plant",
+		"production": 3,
+		"requiredTech": "Economics III",
+		"uniques": ["Provides [2] [Power]"],
 	}
 ]
