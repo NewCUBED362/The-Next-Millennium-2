@@ -40,5 +40,11 @@
 	    "name": "Market",
 		"gold": 2,
 		"requiredTech": "Economics I",
+	},
+	{
+		"name": "Garden",
+		"food": 1,
+		"happiness": 1,
+		"requiredTech": "Growth II",
 	}
 ]
