@@ -77,5 +77,16 @@
 		"name": "Water Purification Plant",
 		"food": 3,
 		"requiredTech": "Growth IV",
+	},
+	{
+		"name": "Shopping Mall",
+		"gold": 2,
+		"happiness": 1,
+		"requiredTech": "Economics III",
+	},
+	{
+		"name": "Bank",
+		"gold": 3,
+		"requiredTech": "Economics III",
 	}
 ]
