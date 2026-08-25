@@ -17,5 +17,18 @@
 	{
 		"name": "Monument",
 		"culture": 1,
+	},
+	{
+		"name": "Park",
+		"happiness": 1,
+	},
+	{
+		"name": "Logging Camp",
+		"production": 1,
+	},
+	{
+		"name": "Workshop",
+		"production": 2,
+		"requiredTech": "Industry I",
 	}
 ]
