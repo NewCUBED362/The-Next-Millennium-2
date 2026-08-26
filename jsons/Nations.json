@@ -125,8 +125,8 @@
     "neutralRejectingDemand": "You ask for more than we are prepared to give. There is no insult in refusal... unless you choose to make one of it.",
     "hateRejectingDemand": "You have mistaken India's willingness to listen for an obligation to obey. Correct that misunderstanding.",
 
-    "outerColor": [238,28,37],
-    "innerColor": [255,255,0],
+    "outerColor": [4,106,56],
+    "innerColor": [255,103,31],
     "uniqueName": "Satyameva Jayate",
     "cities": ["New Delhi"],
 }
