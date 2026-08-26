@@ -98,5 +98,10 @@
 		"requiredTech": "Economics III",
 		"uniques": ["Provides [2] [Power]",
 		            "Consumes [2] [Coal]"],
+	},
+	{
+		"name": "Megacorporation HQ",
+		"requiredTech": "Economics VI",
+		"uniques": ["Consumes [1] [Power]"],
 	}
 ]
