@@ -1,3 +1,6 @@
 {
     "isBaseRuleset": true,
+    "topics": ["unciv-mod",
+               "unciv-mod-rulesets"
+    ],
 }
