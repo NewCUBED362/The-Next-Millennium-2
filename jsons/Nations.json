@@ -111,17 +111,17 @@
     "leaderName": "Narendra Modi",
     "startBias": ["Forest","Jungle"],
 
-    "declaringWar": "We extended the hand of dialogue. You have rejected it. Now we shall defend India's interests with the same determination with which we pursue its progress.",
-    "attacked": "India has faced many challenges throughout history. Your aggression will not prevent us from moving forward.",
-    "defeated": "You may claim this victory, but India's aspirations do not end here. Tomorrow brings another opportunity to rise and build.",
-    "denounced": "Public condemnation does little to resolve disagreements. It merely reveals who prefers spectacle to substance.",
+    "declaringWar": "You have chosen to stand in the path of a nation that has decided to move forward. That is your decision. Moving you aside is now ours.",
+    "attacked": "An ambitious move. You have succeeded in making yourself India's most immediate problem.",
+    "defeated": "So this is how the present chapter closes. Fortunately, India has never been a civilization with only one chapter.",
+    "denounced": "Criticism does not change our direction. India will continue to act according to its national interests and its responsibilities to its people.",
     "neutralDenouncing": "Your actions have undermined the trust upon which relations between nations depend. We can no longer remain silent.",
     "hateDenouncing": "Once again, your actions confirm what experience has already taught us: your promises carry little weight.",
-    "introduction": "Namaste. I am Narendra Modi of India. Ours is an ancient civilization, but we do not live only in the memories of the past, we build for the generations yet to come.",
+    "introduction": "Namaste. I am Narendra Modi of India. Some nations inherit a moment; others prepare for centuries. India intends to make the most of both.",
 
     "neutralHello": "I wish you peace.",
     "hateHello": "What is it now?",
-    "tradeRequest": "Development is not a privilege to be hoarded. Let our nations pursue prosperity through cooperation.",
+    "tradeRequest": "The world's markets are changing. Wise nations do not simply watch the road being built, they secure a place upon it.",
     "neutralRejectingDemand": "We have considered your request carefully. However, China's interests require that we decline.",
     "hateRejectingDemand": "You are in no position to dictate China's decisions. Your demand is rejected.",
 
