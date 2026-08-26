@@ -102,6 +102,7 @@
 	{
 		"name": "Megacorporation HQ",
 		"requiredTech": "Economics VI",
-		"uniques": ["Consumes [1] [Power]"],
+		"uniques": ["Consumes [1] [Power]",
+		            "[+20]% [Gold] [in this city]"],
 	}
 ]
