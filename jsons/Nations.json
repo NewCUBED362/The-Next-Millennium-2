@@ -122,8 +122,8 @@
     "neutralHello": "I wish you peace.",
     "hateHello": "What is it now?",
     "tradeRequest": "The world's markets are changing. Wise nations do not simply watch the road being built, they secure a place upon it.",
-    "neutralRejectingDemand": "We have considered your request carefully. However, China's interests require that we decline.",
-    "hateRejectingDemand": "You are in no position to dictate China's decisions. Your demand is rejected.",
+    "neutralRejectingDemand": "You ask for more than we are prepared to give. There is no insult in refusal... unless you choose to make one of it.",
+    "hateRejectingDemand": "You have mistaken India's willingness to listen for an obligation to obey. Correct that misunderstanding.",
 
     "outerColor": [238,28,37],
     "innerColor": [255,255,0],
