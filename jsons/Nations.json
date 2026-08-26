@@ -128,6 +128,7 @@
     "outerColor": [4,106,56],
     "innerColor": [255,103,31],
     "uniqueName": "Satyameva Jayate",
-    "cities": ["New Delhi","Mumbai","Bengaluru","Hyderabad","Chennai","Ahmedabad","Kolkata","Surat","Pune","Jaipur"],
+    "cities": ["New Delhi","Mumbai","Bengaluru","Hyderabad","Chennai","Ahmedabad","Kolkata","Surat","Pune","Jaipur",
+               "Lucknow","Kanpur","Nagpur","Indore","Thane","Bhopal","Visakhapatnam","Pimpri-Chinchwad","Patna","Vadodara"],
 }
 ]
