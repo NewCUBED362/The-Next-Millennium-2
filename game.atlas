@@ -1,9 +1,37 @@
 
 game.png
-size: 1024, 256
+size: 2048, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Coal Power Plant
+  rotate: false
+  xy: 276, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Park
+  rotate: false
+  xy: 412, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Shopping Mall
+  rotate: false
+  xy: 684, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Water Purification Plant
+  rotate: false
+  xy: 1092, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 NationIcons/China
   rotate: false
   xy: 140, 104
@@ -13,23 +41,30 @@ NationIcons/China
   index: -1
 NationIcons/Russian Federation
   rotate: false
-  xy: 276, 104
+  xy: 548, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/United Kingdom
   rotate: false
-  xy: 412, 104
+  xy: 820, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/United States
   rotate: false
-  xy: 548, 104
+  xy: 956, 104
   size: 128, 128
   orig: 128, 128
+  offset: 0, 0
+  index: -1
+ResourceIcons/Power
+  rotate: false
+  xy: 1300, 168
+  size: 64, 64
+  orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-21st Century
@@ -41,14 +76,14 @@ TileSets/FantasyHex/Tiles/City center-21st Century
   index: -1
 TileSets/FantasyHex/Tiles/Coast
   rotate: false
-  xy: 684, 123
+  xy: 1228, 123
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Desert
   rotate: false
-  xy: 756, 204
+  xy: 1372, 204
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -62,14 +97,14 @@ TileSets/FantasyHex/Tiles/Grassland
   index: -1
 TileSets/FantasyHex/Tiles/GrasslandForest
   rotate: false
-  xy: 756, 165
+  xy: 1372, 165
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Jungle
   rotate: false
-  xy: 796, 200
+  xy: 1412, 200
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -83,7 +118,7 @@ TileSets/FantasyHex/Tiles/Ocean
   index: -1
 TileSets/FantasyHex/Tiles/Plains
   rotate: false
-  xy: 836, 204
+  xy: 1452, 204
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -97,7 +132,7 @@ TileSets/FantasyHex/Tiles/PlainsForest
   index: -1
 TileSets/FantasyHex/Tiles/Snow
   rotate: false
-  xy: 876, 204
+  xy: 1492, 204
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -118,7 +153,7 @@ TileSets/FantasyHex/Units/Basic Infantry
   index: -1
 TileSets/HexaRealm/Tiles/City center-21st Century
   rotate: false
-  xy: 684, 159
+  xy: 1228, 159
   size: 64, 73
   orig: 64, 73
   offset: 0, 0
