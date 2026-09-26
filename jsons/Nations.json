@@ -153,8 +153,8 @@
     "neutralRejectingDemand": "Your request has been heard. Indonesia has its own responsibilities, and this is not one we are prepared to accept.",
     "hateRejectingDemand": "You may make demands of your own people. You will not make them of Indonesia.",
 
-    "outerColor": [4,106,56],
-    "innerColor": [255,103,31],
+    "outerColor": [120,0,0],
+    "innerColor": [0,192,154],
     "uniqueName": "Bhinneka Tunggal Ika",
     "cities": ["Jakarta","Surabaya","Bekasi","Bandung","Medan","Depok","Tangerang","Palembang","Semarang","Makassar",
                "South Tangerang","Batam","Bandar Lampung","Bogor","Pekanbaru","Padang","Malang","Samarinda","Denpasar","Tasikmalaya",
