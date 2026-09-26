@@ -156,6 +156,7 @@
     "outerColor": [4,106,56],
     "innerColor": [255,103,31],
     "uniqueName": "Bhinneka Tunggal Ika",
-    "cities": ["Jakarta","Surabaya","Bekasi","Bandung","Medan","Depok","Tangerang","Palembang","Semarang","Makassar"],
+    "cities": ["Jakarta","Surabaya","Bekasi","Bandung","Medan","Depok","Tangerang","Palembang","Semarang","Makassar",
+               "South Tangerang","Batam","Bandar Lampung","Bogor","Pekanbaru","Padang","Malang","Samarinda","Denpasar","Tasikmalaya"],
   }
 ]
