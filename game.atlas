@@ -1,0 +1,181 @@
+
+game.png
+size: 2048, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Coal Power Plant
+  rotate: false
+  xy: 276, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Park
+  rotate: false
+  xy: 548, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Shopping Mall
+  rotate: false
+  xy: 820, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Water Purification Plant
+  rotate: false
+  xy: 1228, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/China
+  rotate: false
+  xy: 140, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Indonesia
+  rotate: false
+  xy: 412, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Russian Federation
+  rotate: false
+  xy: 684, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/United Kingdom
+  rotate: false
+  xy: 956, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/United States
+  rotate: false
+  xy: 1092, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ResourceIcons/Power
+  rotate: false
+  xy: 1436, 168
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-21st Century
+  rotate: false
+  xy: 76, 60
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast
+  rotate: false
+  xy: 1364, 123
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Desert
+  rotate: false
+  xy: 1508, 204
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland
+  rotate: false
+  xy: 116, 68
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/GrasslandForest
+  rotate: false
+  xy: 1508, 165
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle
+  rotate: false
+  xy: 1548, 200
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ocean
+  rotate: false
+  xy: 156, 68
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plains
+  rotate: false
+  xy: 1588, 204
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/PlainsForest
+  rotate: false
+  xy: 196, 64
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Snow
+  rotate: false
+  xy: 1628, 204
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra
+  rotate: false
+  xy: 236, 68
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Basic Infantry
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/City center-21st Century
+  rotate: false
+  xy: 1364, 159
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Basic Infantry
+  rotate: false
+  xy: 4, 40
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+UnitIcons/Basic Infantry
+  rotate: false
+  xy: 4, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
