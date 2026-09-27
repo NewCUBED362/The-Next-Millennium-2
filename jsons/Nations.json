@@ -133,7 +133,7 @@
     "cities": ["New Delhi","Mumbai","Bengaluru","Hyderabad","Chennai","Ahmedabad","Kolkata","Surat","Pune","Jaipur",
                "Lucknow","Kanpur","Nagpur","Indore","Thane","Bhopal","Visakhapatnam","Pimpri-Chinchwad","Patna","Vadodara",
                "Ghaziabad","Ludhiana","Agra","Nashik","Faridabad","Meerut","Rajkot","Kalyan-Dombivli","Vasai-Virar","Varanasi"],
-},
+  },
   {
     "name": "Indonesia",
     "leaderName": "Prabowo Subianto",
@@ -159,5 +159,29 @@
     "cities": ["Jakarta","Surabaya","Bekasi","Bandung","Medan","Depok","Tangerang","Palembang","Semarang","Makassar",
                "South Tangerang","Batam","Bandar Lampung","Bogor","Pekanbaru","Padang","Malang","Samarinda","Denpasar","Tasikmalaya",
                "Serang","Balikpapan","Pontianak","Banjarmasin","Jambi","Cimahi","Surakarta","Manado","Kupang","Cilegon"],
+  },
+  {
+    "name": "Germany",
+    "leaderName": "Friedrich Merz",
+    "startBias": ["Grassland"],
+
+    "declaringWar": "You have mistaken Indonesia's desire for peace for a willingness to surrender its dignity. That mistake ends today.",
+    "attacked": "You have brought your armies to Indonesia. You will discover that an archipelago is not easily made to kneel.",
+    "defeated": "Our cities may fall, but our people remain. What is built once can be built again, stronger and wiser.",
+    "denounced": "You may speak against Indonesia. Your words do not diminish our sovereignty, nor do they decide our future.",
+    "neutralDenouncing": "You may speak against Indonesia. Your words do not diminish our sovereignty, nor do they decide our future.",
+    "hateDenouncing": "You speak of principles while treating the interests of other nations as things to be discarded. Indonesia will not pretend that this is acceptable.",
+    "introduction": "I am Prabowo Subianto of Indonesia. We are a nation of islands, but we are one people. Remember that before you mistake our distance for division.",
+
+    "neutralHello": "Greetings!",
+    "hateHello": "Speak up!",
+    "tradeRequest": "Indonesia has resources, workers, and a growing market. We should not merely sell our wealth—we should build with it. Let us make a deal.",
+    "neutralRejectingDemand": "Your request has been heard. Indonesia has its own responsibilities, and this is not one we are prepared to accept.",
+    "hateRejectingDemand": "You may make demands of your own people. You will not make them of Indonesia.",
+
+    "outerColor": [120,0,0],
+    "innerColor": [0,192,154],
+    "uniqueName": "Germany",
+    "cities": ["Berlin"],
   }
 ]
