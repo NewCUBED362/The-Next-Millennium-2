@@ -181,7 +181,7 @@
 
     "outerColor": [255,206,0],
     "innerColor": [0,0,0],
-    "uniqueName": "Germany",
-    "cities": ["Berlin"],
+    "uniqueName": "German Reunification",
+    "cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt am Main","Stuttgart","Düsseldorf","Leipzig","Dortmund","Essen"],
   }
 ]
