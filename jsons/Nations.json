@@ -179,8 +179,8 @@
     "neutralRejectingDemand": "I understand your request. Germany's answer is no. There is nothing complicated about that.",
     "hateRejectingDemand": "You are confusing a request with an instruction. Germany does not take instructions from you.",
 
-    "outerColor": [120,0,0],
-    "innerColor": [0,192,154],
+    "outerColor": [255,206,0],
+    "innerColor": [0,0,0],
     "uniqueName": "Germany",
     "cities": ["Berlin"],
   }
