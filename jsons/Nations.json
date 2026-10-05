@@ -263,5 +263,17 @@
     "innerColor": [0,148,64],
     "outerColor": [0,0,0],
     "cities": ["Brasília"],
+  },
+  {
+    "name": "Bangladesh",
+	"cityStateType": "Industrial",
+
+    "declaringWar": "We have no choice. War it must be.",
+	"attacked": "Very well. This shall not be forgotten.",
+	"defeated": "Perhaps now we will find peace in death...",
+
+    "innerColor": [21,108,49],
+    "outerColor": [0,0,0],
+    "cities": ["Dhaka"],
   }
 ]
