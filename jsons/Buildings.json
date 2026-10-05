@@ -10,7 +10,8 @@
 		"cityStrength": 2.5,
 		"cost": 0,
 		"uniques": ["Indicates the capital city",
-		            "Provides [3] [Power]"],
+		            "Provides [3] [Power]",
+		            "Provides [3] [Budget]"],
 	},
 	{
 		"name": "Library",
