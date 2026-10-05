@@ -227,5 +227,17 @@
     "innerColor": [0,72,160],
     "outerColor": [0,0,0],
     "cities": ["Seoul"],
+  },
+  {
+    "name": "Pakistan",
+	"cityStateType": "Agricultural",
+
+    "declaringWar": "We have no choice. War it must be.",
+	"attacked": "Very well. This shall not be forgotten.",
+	"defeated": "I foresaw my death, but Korea's fate would be different.",
+
+    "innerColor": [0,72,160],
+    "outerColor": [0,0,0],
+    "cities": ["Islamabad"],
   }
 ]
