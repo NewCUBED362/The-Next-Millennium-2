@@ -237,28 +237,28 @@
 	{
 		"name": "Build Customs house II",
 		"cost": 200,
-	    "requiredBuilding": "Customs house",
+	    "requiredBuilding": "Build Customs house",
 		"uniques": ["Creates a [Customs house] improvement on a specific tile",
 		            "Consumes [1] [Budget]"],
 	},
 	{
 		"name": "Build Customs house III",
 		"cost": 200,
-	    "requiredBuilding": "Customs house II",
+	    "requiredBuilding": "Build Customs house II",
 		"uniques": ["Creates a [Customs house] improvement on a specific tile",
 		            "Consumes [1] [Budget]"],
 	},
 	{
 		"name": "Build Customs house IV",
 		"cost": 200,
-	    "requiredBuilding": "Customs house III",
+	    "requiredBuilding": "Build Customs house III",
 		"uniques": ["Creates a [Customs house] improvement on a specific tile",
 		            "Consumes [1] [Budget]"],
 	},
 	{
 		"name": "Build Customs house V",
 		"cost": 200,
-	    "requiredBuilding": "Customs house IV",
+	    "requiredBuilding": "Build Customs house IV",
 		"uniques": ["Creates a [Customs house] improvement on a specific tile",
 		            "Consumes [1] [Budget]"],
 	}
