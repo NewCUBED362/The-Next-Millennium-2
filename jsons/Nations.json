@@ -248,7 +248,7 @@
 	"attacked": "Very well. This shall not be forgotten.",
 	"defeated": "Perhaps, in another world, we could have been friends...",
 
-    "innerColor": [21,108,49],
+    "innerColor": [0,135,81],
     "outerColor": [0,0,0],
     "cities": ["Abuja"],
   }
