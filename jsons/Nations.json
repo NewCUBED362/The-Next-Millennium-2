@@ -284,7 +284,7 @@
 	"attacked": "Very well. This shall not be forgotten.",
 	"defeated": "How could we fall to the likes of you?!",
 
-    "innerColor": [0,103,71],
+    "innerColor": [0,104,71],
     "outerColor": [0,0,0],
     "cities": ["Mexico City"],
   },
@@ -296,7 +296,7 @@
 	"attacked": "Very well. This shall not be forgotten.",
 	"defeated": "How could we fall to the likes of you?!",
 
-    "innerColor": [0,103,71],
+    "innerColor": [0,127,255],
     "outerColor": [0,0,0],
     "cities": ["Kinshasa"],
   }
