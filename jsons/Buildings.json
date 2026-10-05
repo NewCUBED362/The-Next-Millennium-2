@@ -111,5 +111,11 @@
 		"uniques": ["[+1 Production, +1 Gold] from [Water resource] tiles [in this city]",
 			        "Must be next to [Coast]",
 			        "[+15]% Production when constructing [Water] units [in this city]"],
+	},
+	// Districts
+	{
+		"name": "Build [Academy]",
+		"uniques": ["Creates a [Academy] improvement on a specific tile",
+		            "Consumes [1] [Budget]"],
 	}
 ]
