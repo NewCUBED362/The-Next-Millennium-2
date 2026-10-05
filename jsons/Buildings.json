@@ -128,24 +128,28 @@
 	{
 		"name": "Build [Academy] II",
 		"cost": 200,
+		"requiredBuilding": "Build [Academy]",
 		"uniques": ["Creates a [Academy] improvement on a specific tile",
 		            "Consumes [1] [Budget]"],
 	},
 	{
 		"name": "Build [Academy] III",
 		"cost": 200,
+		"requiredBuilding": "Build [Academy] II",
 		"uniques": ["Creates a [Academy] improvement on a specific tile",
 		            "Consumes [1] [Budget]"],
 	},
 	{
 		"name": "Build [Academy] IV",
 		"cost": 200,
+		"requiredBuilding": "Build [Academy] III",
 		"uniques": ["Creates a [Academy] improvement on a specific tile",
 		            "Consumes [1] [Budget]"],
 	},
 	{
 		"name": "Build [Academy] V",
 		"cost": 200,
+		"requiredBuilding": "Build [Academy] IV",
 		"uniques": ["Creates a [Academy] improvement on a specific tile",
 		            "Consumes [1] [Budget]"],
 	},
