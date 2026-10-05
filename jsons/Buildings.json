@@ -117,6 +117,7 @@
 	// Districts
 	{
 		"name": "Build [Academy]",
+		"cost": 200,
 		"uniques": ["Creates a [Academy] improvement on a specific tile",
 		            "Consumes [1] [Budget]"],
 	}
