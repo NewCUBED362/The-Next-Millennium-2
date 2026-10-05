@@ -304,9 +304,9 @@
     "name": "Philippines",
 	"cityStateType": "Economic",
 
-    "declaringWar": "We have no choice. War it must be.",
-	"attacked": "Very well. This shall not be forgotten.",
-	"defeated": "How could we fall to the likes of you?!",
+    "declaringWar": "You must shatter the vase to spread its perfume, and smite the rock to get the spark!",
+	"attacked": "We are not sleeping, we are waiting for you with a burning heart and an armed fist!",
+	"defeated": "...Consummatum est.",
 
     "innerColor": [252,209,22],
     "outerColor": [0,0,0],
