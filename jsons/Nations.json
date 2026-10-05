@@ -239,5 +239,17 @@
     "innerColor": [21,108,49],
     "outerColor": [0,0,0],
     "cities": ["Islamabad"],
+  },
+  {
+    "name": "Nigeria",
+	"cityStateType": "Economic",
+
+    "declaringWar": "We have no choice. War it must be.",
+	"attacked": "Very well. This shall not be forgotten.",
+	"defeated": "Perhaps, in another world, we could have been friends...",
+
+    "innerColor": [21,108,49],
+    "outerColor": [0,0,0],
+    "cities": ["Abuja"],
   }
 ]
