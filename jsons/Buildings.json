@@ -93,14 +93,14 @@
 		"happiness": 1,
 		"requiredBuilding": "Market",
 		"requiredTech": "Economics III",
-		"uniques" "Can only be built <if [Build Customs house] is constructed>"],
+		"uniques": ["Can only be built <if [Build Customs house] is constructed>"],
 	},
 	{
 		"name": "Bank",
 		"gold": 3,
 		"requiredBuilding": "Market",
 		"requiredTech": "Economics III",
-		"uniques" "Can only be built <if [Build Customs house] is constructed>"],
+		"uniques": ["Can only be built <if [Build Customs house] is constructed>"],
 		
 	},
 	{
