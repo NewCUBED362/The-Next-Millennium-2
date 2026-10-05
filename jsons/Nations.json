@@ -299,5 +299,17 @@
     "innerColor": [0,127,255],
     "outerColor": [0,0,0],
     "cities": ["Kinshasa"],
-  }
+  },
+  {
+    "name": "Philippines",
+	"cityStateType": "Economic",
+
+    "declaringWar": "We have no choice. War it must be.",
+	"attacked": "Very well. This shall not be forgotten.",
+	"defeated": "How could we fall to the likes of you?!",
+
+    "innerColor": [0,104,71],
+    "outerColor": [0,0,0],
+    "cities": ["Manila"],
+  },
 ]
