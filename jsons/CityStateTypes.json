@@ -1,6 +1,9 @@
 [
   {
     "name": "Scientific",
+    "friendBonusUniques": ["[+2 Science] [in capital]"],
+    "allyBonusUniques": ["[+2 Science] [in capital]",
+                         "[+1 Science] [in all cities]"],
     "color": [0,79,206],
   }
 ]
