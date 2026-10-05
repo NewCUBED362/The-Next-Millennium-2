@@ -214,5 +214,18 @@
     "cities": ["Tokyo","Yokohama","Osaka","Nagoya","Sapporo","Fukuoka","Kawasaki","Kobe","Kyoto","Saitama",
                "Hiroshima","Sendai","Chiba","Kitakyushu","Setagaya","Sakai","Niigata","Hamamatsu","Nerima","Kumamoto",
                "Sagamihara","Okayama","Ōta","Shizuoka","Edogawa","Adachi","Kagoshima","Funabashi","Hachiōji","Kawaguchi"],
+  },
+  // City-States
+  {
+    "name": "South Korea",
+	  "cityStateType": "Scientific",
+
+    "declaringWar": "I fear there is no other choice but to remove you from this world!",
+    "attacked": "You lowlife! You will regret this!",
+    "defeated": "You have bested my forces... Perhaps it was I that underestimated you.",
+
+    "innerColor": [0,72,160],
+    "outerColor": [0,0,0],
+    "cities": ["Seoul"],
   }
 ]
