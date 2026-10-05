@@ -210,6 +210,7 @@
     "outerColor": [255,255,255],
     "innerColor": [241,70,78],
     "uniqueName": "Blossoming Innovation",
+    "uniques": ["[-20]% Science cost of researching new Technologies"],
     "cities": ["Tokyo","Yokohama","Osaka","Nagoya","Sapporo","Fukuoka","Kawasaki","Kobe","Kyoto","Saitama",
                "Hiroshima","Sendai","Chiba","Kitakyushu","Setagaya","Sakai","Niigata","Hamamatsu","Nerima","Kumamoto",
                "Sagamihara","Okayama","Ōta","Shizuoka","Edogawa","Adachi","Kagoshima","Funabashi","Hachiōji","Kawaguchi"],
