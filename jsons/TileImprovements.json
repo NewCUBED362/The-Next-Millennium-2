@@ -34,6 +34,18 @@
 			        "Irremovable",
 			        "Removes removable features when built"],
 	},
+	{
+		"name": "Landmark",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"culture": 3,
+		"uniques": ["Great Improvement",
+                    "Cannot be built on [Mountain] tiles",
+			        "Cannot be built on [Great Improvement] tiles",
+			        "Cannot be built on [Luxury resource] tiles",
+			        "Cannot be built on [Bonus resource] tiles",
+			        "Irremovable",
+			        "Removes removable features when built"],
+	},
 	// Misc
 	{
 		"name": "City ruins",
