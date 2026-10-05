@@ -187,5 +187,29 @@
     "cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt am Main","Stuttgart","Düsseldorf","Leipzig","Dortmund","Essen",
                "Bremen","Dresden","Hanover","Nuremberg","Duisburg","Bochum","Wuppertal","Bielefeld","Bonn","Münster",
                "Mannheim","Karlsruhe","Augsburg","Wiesbaden","Mönchengladbach","Gelsenkirchen","Aachen","Braunschweig","Kiel","Chemnitz"],
+  },
+  {
+    "name": "Japan",
+    "leaderName": "Sanae Takaichi",
+    "startBias": ["Grassland"],
+
+    "declaringWar": "Germany has no interest in unnecessary wars. But neither do we confuse restraint with weakness. You have forced this decision upon us.",
+    "attacked": "You have attacked Germany. I hope you have considered what that means, because I assure you, we have.",
+    "defeated": "Germany has suffered defeats before. We rebuilt because we understood that surrendering to circumstances is not the same as accepting reality.",
+    "denounced": "If public condemnation were sufficient to solve international problems, Europe would have been peaceful for centuries.",
+    "neutralDenouncing": "Your government repeatedly substitutes declarations for responsible action. Germany cannot treat that as acceptable.",
+    "hateDenouncing": "We have had this discussion before, and apparently you have learned very little from it.",
+    "introduction": "I am Friedrich Merz, Chancellor of Germany. We have work to do, and I have little patience for leaving important work unfinished.",
+
+    "neutralHello": "What now?",
+    "hateHello": "So, out with it!",
+    "tradeRequest": "Germany succeeds when business can move, investment can flow, and serious people can make serious agreements. Shall we do business?",
+    "neutralRejectingDemand": "I understand your request. Germany's answer is no. There is nothing complicated about that.",
+    "hateRejectingDemand": "You are confusing a request with an instruction. Germany does not take instructions from you.",
+
+    "outerColor": [255,206,0],
+    "innerColor": [0,0,0],
+    "uniqueName": "Japan",
+    "cities": ["Tokyo"],
   }
 ]
