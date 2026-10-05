@@ -218,11 +218,11 @@
   // City-States
   {
     "name": "South Korea",
-	  "cityStateType": "Scientific",
+	"cityStateType": "Scientific",
 
-    "declaringWar": "I fear there is no other choice but to remove you from this world!",
-    "attacked": "You lowlife! You will regret this!",
-    "defeated": "You have bested my forces... Perhaps it was I that underestimated you.",
+    "declaringWar": "The stars foretell your defeat. The will of Heaven cannot be denied.",
+	"attacked": "I foresee that your defeat will be swift and your nation will be forgotten.",
+	"defeated": "I foresaw my death, but Korea's fate would be different.",
 
     "innerColor": [0,72,160],
     "outerColor": [0,0,0],
