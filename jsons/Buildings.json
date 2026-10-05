@@ -91,12 +91,17 @@
 		"name": "Shopping Mall",
 		"gold": 2,
 		"happiness": 1,
+		"requiredBuilding": "Market",
 		"requiredTech": "Economics III",
+		"uniques" "Can only be built <if [Build Customs house] is constructed>"],
 	},
 	{
 		"name": "Bank",
 		"gold": 3,
+		"requiredBuilding": "Market",
 		"requiredTech": "Economics III",
+		"uniques" "Can only be built <if [Build Customs house] is constructed>"],
+		
 	},
 	{
 		"name": "Coal Power Plant",
@@ -107,8 +112,10 @@
 	},
 	{
 		"name": "Megacorporation HQ",
+		"requiredBuilding": "Shopping Mall",
 		"requiredTech": "Economics VI",
 		"uniques": ["Consumes [1] [Power]",
+			        "Can only be built <if [Build Customs house] is constructed>",
 		            "[+20]% [Gold] [in this city]"],
 	},
 	{
