@@ -32,7 +32,7 @@
 			        "Cannot be built on [Luxury resource] tiles",
 			        "Cannot be built on [Bonus resource] tiles",
 			        "Irremovable",
-			        "Removes removable features when built",],
+			        "Removes removable features when built"],
 	},
 	// Misc
 	{
