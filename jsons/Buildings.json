@@ -43,6 +43,7 @@
 		"name": "Public School",
 		"science": 2,
 		"requiredTech": "Research I",
+		"uniques": ["Can only be built <if [Build [Academy]] is constructed>"],
 	},
 	{
 	    "name": "Market",
