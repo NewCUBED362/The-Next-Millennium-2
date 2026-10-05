@@ -275,5 +275,17 @@
     "innerColor": [0,103,71],
     "outerColor": [0,0,0],
     "cities": ["Dhaka"],
+  },
+  {
+    "name": "Mexico",
+	"cityStateType": "Industrial",
+
+    "declaringWar": "We have no choice. War it must be.",
+	"attacked": "Very well. This shall not be forgotten.",
+	"defeated": "How could we fall to the likes of you?!",
+
+    "innerColor": [0,103,71],
+    "outerColor": [0,0,0],
+    "cities": ["Mexico City"],
   }
 ]
