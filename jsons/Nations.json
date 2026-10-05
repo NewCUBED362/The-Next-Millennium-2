@@ -210,6 +210,6 @@
     "outerColor": [255,255,255],
     "innerColor": [241,70,78],
     "uniqueName": "Blossoming Innovation",
-    "cities": ["Tokyo"],
+    "cities": ["Tokyo","Yokohama","Osaka","Nagoya","Sapporo","Fukuoka","Kawasaki","Kobe","Kyoto","Saitama"],
   }
 ]
