@@ -272,7 +272,7 @@
 	"attacked": "Very well. This shall not be forgotten.",
 	"defeated": "Perhaps now we will find peace in death...",
 
-    "innerColor": [21,108,49],
+    "innerColor": [0,103,71],
     "outerColor": [0,0,0],
     "cities": ["Dhaka"],
   }
