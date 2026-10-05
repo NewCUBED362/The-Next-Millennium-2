@@ -25,6 +25,7 @@
 	{
 		"name": "Academy",
 		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 3,
 		"uniques": ["Great Improvement",
                     "Cannot be built on [Mountain] tiles",
 			        "Cannot be built on [Great Improvement] tiles",
