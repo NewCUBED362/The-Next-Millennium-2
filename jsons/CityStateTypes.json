@@ -5,5 +5,33 @@
     "allyBonusUniques": ["[+2 Science] [in capital]",
                          "[+1 Science] [in all cities]"],
     "color": [0,79,206],
+  },
+  {
+    "name": "Agricultural",
+    "friendBonusUniques": ["[+3 Food] [in capital]"],
+    "allyBonusUniques": ["[+3 Food] [in capital]",
+                         "[+2 Food] [in all cities]"],
+    "color": [97,191,34],
+  },
+  {
+    "name": "Industrial",
+    "friendBonusUniques": ["[+2 Production] [in capital]"],
+    "allyBonusUniques": ["[+2 Production] [in capital]",
+                         "[+1 Production] [in all cities]"],
+    "color": [255,129,18],
+  },
+  {
+    "name": "Cultured",
+    "friendBonusUniques": ["[+3 Culture] [in capital]"],
+    "allyBonusUniques": ["[+3 Culture] [in capital]",
+                         "[+2 Culture] [in all cities]"],
+    "color": [109,0,205],
+  },
+  {
+    "name": "Economic",
+    "friendBonusUniques": ["[+3 Gold] [in capital]"],
+    "allyBonusUniques": ["[+3 Gold] [in capital]",
+                         "[+2 Gold] [in all cities]"],
+    "color": [109,0,205],
   }
 ]
