@@ -42,6 +42,7 @@
 	{
 		"name": "Public School",
 		"science": 2,
+		"requiredBuilding": "Library",
 		"requiredTech": "Research I",
 		"uniques": ["Can only be built <if [Build [Academy]] is constructed>"],
 	},
@@ -64,13 +65,16 @@
 	{
 		"name": "Research Lab",
 		"science": 5,
+		"requiredBuilding": "University",
 		"requiredTech": "Research VI",
-		"uniques": ["Consumes [1] [Power]"],
+		"uniques": ["Consumes [1] [Power]","Can only be built <if [Build [Academy]] is constructed>"],
 	},
 	{
 		"name": "University",
 		"science": 3,
+		"requiredBuilding": "Public School",
 		"requiredTech": "Research III",
+		"uniques": ["Can only be built <if [Build [Academy]] is constructed>"],
 	},
 	{
 		"name": "Stadium",
