@@ -251,5 +251,17 @@
     "innerColor": [0,135,81],
     "outerColor": [0,0,0],
     "cities": ["Abuja"],
+  },
+  {
+    "name": "Brazil",
+	"cityStateType": "Agricultural",
+
+    "declaringWar": "We have no choice. War it must be.",
+	"attacked": "Very well. This shall not be forgotten.",
+	"defeated": "May God grant me these last wishes - peace and prosperity for Brazil.",
+
+    "innerColor": [0,135,81],
+    "outerColor": [0,0,0],
+    "cities": ["Brasília"],
   }
 ]
