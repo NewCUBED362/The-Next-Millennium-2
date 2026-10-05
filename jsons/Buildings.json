@@ -192,5 +192,33 @@
 		"cost": 200,
 		"uniques": ["Creates a [Manufactory] improvement on a specific tile",
 		            "Consumes [1] [Budget]"],
+	},
+	{
+		"name": "Build Manufactory II",
+		"cost": 200,
+		"requiredBuilding": "Build Manufactory",
+		"uniques": ["Creates a [Manufactory] improvement on a specific tile",
+		            "Consumes [1] [Budget]"],
+	},
+	{
+		"name": "Build Manufactory III",
+		"cost": 200,
+		"requiredBuilding": "Build Manufactory II",
+		"uniques": ["Creates a [Manufactory] improvement on a specific tile",
+		            "Consumes [1] [Budget]"],
+	},
+	{
+		"name": "Build Manufactory IV",
+		"cost": 200,
+		"requiredBuilding": "Build Manufactory III",
+		"uniques": ["Creates a [Manufactory] improvement on a specific tile",
+		            "Consumes [1] [Budget]"],
+	},
+	{
+		"name": "Build Manufactory V",
+		"cost": 200,
+		"requiredBuilding": "Build Manufactory IV",
+		"uniques": ["Creates a [Manufactory] improvement on a specific tile",
+		            "Consumes [1] [Budget]"],
 	}
 ]
