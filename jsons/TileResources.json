@@ -46,5 +46,9 @@
 	{
 		"name": "Power",
 		"resourceType": "Strategic",
+	},
+	{
+		"name": "Budget",
+		"resourceType": "Strategic",
 	}
 ]
