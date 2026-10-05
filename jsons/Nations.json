@@ -308,7 +308,7 @@
 	"attacked": "Very well. This shall not be forgotten.",
 	"defeated": "How could we fall to the likes of you?!",
 
-    "innerColor": [0,104,71],
+    "innerColor": [252,209,22],
     "outerColor": [0,0,0],
     "cities": ["Manila"],
   },
