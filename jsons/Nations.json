@@ -211,6 +211,7 @@
     "innerColor": [241,70,78],
     "uniqueName": "Blossoming Innovation",
     "cities": ["Tokyo","Yokohama","Osaka","Nagoya","Sapporo","Fukuoka","Kawasaki","Kobe","Kyoto","Saitama",
-               "Hiroshima","Sendai","Chiba","Kitakyushu","Setagaya","Sakai","Niigata","Hamamatsu","Nerima","Kumamoto"],
+               "Hiroshima","Sendai","Chiba","Kitakyushu","Setagaya","Sakai","Niigata","Hamamatsu","Nerima","Kumamoto",
+               "Sagamihara","Okayama","Ōta","Shizuoka","Edogawa","Adachi","Kagoshima","Funabashi","Hachiōji","Kawaguchi"],
   }
 ]
