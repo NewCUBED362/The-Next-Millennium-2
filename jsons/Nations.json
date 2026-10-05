@@ -234,9 +234,9 @@
 
     "declaringWar": "We have no choice. War it must be.",
 	"attacked": "Very well. This shall not be forgotten.",
-	"defeated": "I foresaw my death, but Korea's fate would be different.",
+	"defeated": "Perhaps now we will find peace in death...",
 
-    "innerColor": [0,72,160],
+    "innerColor": [21,108,49],
     "outerColor": [0,0,0],
     "cities": ["Islamabad"],
   }
