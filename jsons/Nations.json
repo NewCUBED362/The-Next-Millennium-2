@@ -193,17 +193,17 @@
     "leaderName": "Sanae Takaichi",
     "startBias": ["Coast"],
 
-    "declaringWar": "Germany has no interest in unnecessary wars. But neither do we confuse restraint with weakness. You have forced this decision upon us.",
-    "attacked": "You have attacked Germany. I hope you have considered what that means, because I assure you, we have.",
-    "defeated": "Germany has suffered defeats before. We rebuilt because we understood that surrendering to circumstances is not the same as accepting reality.",
+    "declaringWar": "Japan has spent too long preparing for dangers that others insisted would never come. You have now provided us with a reason to demonstrate that preparation.",
+    "attacked": "So, you have decided to test Japan's resolve. I sincerely hope your preparations are as thorough as ours.",
+    "defeated": "You have defeated the government of Japan. You have not defeated the determination of the Japanese people.",
     "denounced": "If public condemnation were sufficient to solve international problems, Europe would have been peaceful for centuries.",
     "neutralDenouncing": "Your government repeatedly substitutes declarations for responsible action. Germany cannot treat that as acceptable.",
     "hateDenouncing": "We have had this discussion before, and apparently you have learned very little from it.",
-    "introduction": "I am Friedrich Merz, Chancellor of Germany. We have work to do, and I have little patience for leaving important work unfinished.",
+    "introduction": "I am Sanae Takaichi, Prime Minister of Japan. Our nation has endured, adapted, and advanced many times before. We intend to do so again.",
 
     "neutralHello": "What now?",
     "hateHello": "So, out with it!",
-    "tradeRequest": "Germany succeeds when business can move, investment can flow, and serious people can make serious agreements. Shall we do business?",
+    "tradeRequest": "Japan intends to lead in technology, industry, and the fields that will define the next century. Perhaps your nation would benefit from standing beside us.",
     "neutralRejectingDemand": "I understand your request. Germany's answer is no. There is nothing complicated about that.",
     "hateRejectingDemand": "You are confusing a request with an instruction. Germany does not take instructions from you.",
 
