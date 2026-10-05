@@ -32,6 +32,6 @@
     "friendBonusUniques": ["[+3 Gold] [in capital]"],
     "allyBonusUniques": ["[+3 Gold] [in capital]",
                          "[+2 Gold] [in all cities]"],
-    "color": [109,0,205],
+    "color": [247,214,1],
   }
 ]
