@@ -311,5 +311,17 @@
     "innerColor": [252,209,22],
     "outerColor": [0,0,0],
     "cities": ["Manila"],
+  },
+  {
+    "name": "Ethiopia",
+	"cityStateType": "Agricultural",
+
+    "declaringWar": "I have tried all other avenues, but yet you persist in this madness. I hope, for your sake, your end is swift.",
+	"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
+	"defeated": "God and history will remember your actions this day. I hope you are ready for your impending judgment.",
+
+    "innerColor": [15,71,175],
+    "outerColor": [0,0,0],
+    "cities": ["Addis Ababa"],
   }
 ]
