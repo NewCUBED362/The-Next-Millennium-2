@@ -323,5 +323,17 @@
     "innerColor": [15,71,175],
     "outerColor": [0,0,0],
     "cities": ["Addis Ababa"],
+  },
+  {
+    "name": "Egypt",
+	"cityStateType": "Cultural",
+
+	"declaringWar": "You are but a pest on this Earth, prepare to be eliminated!",
+	"attacked": "You are a fool who evokes pity. You have brought my hostility upon yourself and your repulsive civilization!",
+	"defeated": "Strike me down and my soul will torment yours forever, you have won nothing.",
+
+    "innerColor": [255,205,0],
+    "outerColor": [0,0,0],
+    "cities": ["Cairo"],
   }
 ]
