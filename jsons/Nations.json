@@ -335,5 +335,17 @@
     "innerColor": [255,205,0],
     "outerColor": [0,0,0],
     "cities": ["Cairo"],
+  },
+  {
+    "name": "Vietnam",
+	"cityStateType": "Industrial",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "So this is how it feels to die...",
+
+    "innerColor": [218,37,29],
+    "outerColor": [0,0,0],
+    "cities": ["Hanoi"],
   }
 ]
