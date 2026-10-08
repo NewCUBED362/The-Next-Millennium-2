@@ -347,5 +347,17 @@
     "innerColor": [218,37,29],
     "outerColor": [0,0,0],
     "cities": ["Hanoi"],
-  }
+  },
+  {
+    "name": "Belgium",
+	"cityStateType": "Economic",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "I guess you weren't here for the sprouts after all...",
+
+    "innerColor": [255,205,0],
+    "outerColor": [0,0,0],
+    "cities": ["Brussels"],
+  },
 ]
