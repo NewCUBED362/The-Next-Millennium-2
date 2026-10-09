@@ -237,6 +237,8 @@
     "outerColor": [0,0,145],
     "innerColor": [234,225,157],
     "uniqueName": "Liberté, Égalité, Fraternité",
+	"uniques": ["Receive a tech boost when scientific buildings/wonders are built in capital",
+		        "[+2 Culture] <in cities with at least [8] [Population]>"],
     "cities": ["Paris","Marseille","Lyon","Toulouse","Nice","Nantes","Montpellier","Strasbourg","Bordeaux","Lille",
 	           "Rennes","Toulon","Reims","Saint-Étienne","Le Havre","Villeurbanne","Dijon","Angers","Grenoble","Saint-Denis",
 	           "Nîmes","Aix-en-Provence","Clermont-Ferrand","Le Mans","Brest","Tours","Amiens","Annecy","Limoges","Metz"],
