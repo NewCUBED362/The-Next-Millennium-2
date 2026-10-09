@@ -234,9 +234,9 @@
     "neutralRejectingDemand": "France is always prepared to negotiate. But a negotiation must leave both parties with the freedom to say no.",
     "hateRejectingDemand": "I will not dignify an ultimatum by pretending it is a proposal. France's answer is no.",
 
-    "outerColor": [255,255,255],
-    "innerColor": [241,70,78],
-    "uniqueName": "France",
+    "outerColor": [0,0,145],
+    "innerColor": [234,225,157],
+    "uniqueName": "Liberté, Égalité, Fraternité",
     "cities": ["Paris"],
   },
   // City-States
