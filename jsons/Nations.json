@@ -215,6 +215,30 @@
                "Hiroshima","Sendai","Chiba","Kitakyushu","Setagaya","Sakai","Niigata","Hamamatsu","Nerima","Kumamoto",
                "Sagamihara","Okayama","Ōta","Shizuoka","Edogawa","Adachi","Kagoshima","Funabashi","Hachiōji","Kawaguchi"],
   },
+  {
+    "name": "France",
+    "leaderName": "Emmanuel Macron",
+    "startBias": ["River"],
+
+    "declaringWar": "Japan has spent too long preparing for dangers that others insisted would never come. You have now provided us with a reason to demonstrate that preparation.",
+    "attacked": "So, you have decided to test Japan's resolve. I sincerely hope your preparations are as thorough as ours.",
+    "defeated": "You have defeated the government of Japan. You have not defeated the determination of the Japanese people.",
+    "denounced": "You have condemned Japan. Very well. I would be more concerned if our national interests were determined by your approval.",
+    "neutralDenouncing": "Your government has demonstrated that its ambitions extend beyond its borders and its responsibilities do not. Japan cannot ignore that.",
+    "hateDenouncing": "Japan has been patient with you. Do not confuse that patience with an absence of resolve.",
+    "introduction": "I am Sanae Takaichi, Prime Minister of Japan. Our nation has endured, adapted, and advanced many times before. We intend to do so again.",
+
+    "neutralHello": "Hello.",
+    "hateHello": "Oh, it's you...",
+    "tradeRequest": "Japan intends to lead in technology, industry, and the fields that will define the next century. Perhaps your nation would benefit from standing beside us.",
+    "neutralRejectingDemand": "Japan will listen carefully to any reasonable proposal. This is not one of them.",
+    "hateRejectingDemand": "You have mistaken Japan's courtesy for submission. That misunderstanding ends here.",
+
+    "outerColor": [255,255,255],
+    "innerColor": [241,70,78],
+    "uniqueName": "France",
+    "cities": ["Paris"],
+  },
   // City-States
   {
     "name": "South Korea",
