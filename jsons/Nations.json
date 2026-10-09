@@ -237,7 +237,7 @@
     "outerColor": [0,0,145],
     "innerColor": [234,225,157],
     "uniqueName": "Liberté, Égalité, Fraternité",
-    "cities": ["Paris"],
+    "cities": ["Paris","Marseille","Lyon","Toulouse","Nice","Nantes","Montpellier","Strasbourg","Bordeaux","Lille"],
   },
   // City-States
   {
