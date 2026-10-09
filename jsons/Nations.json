@@ -220,17 +220,17 @@
     "leaderName": "Emmanuel Macron",
     "startBias": ["River"],
 
-    "declaringWar": "Japan has spent too long preparing for dangers that others insisted would never come. You have now provided us with a reason to demonstrate that preparation.",
-    "attacked": "So, you have decided to test Japan's resolve. I sincerely hope your preparations are as thorough as ours.",
-    "defeated": "You have defeated the government of Japan. You have not defeated the determination of the Japanese people.",
+    "declaringWar": "You have made force the language of this dispute. France shall respond in a language you cannot afford to misunderstand.",
+    "attacked": "You expected a divided nation, perhaps a hesitant one. Instead, you have given the Republic a cause around which it can rally.",
+    "defeated": "A defeat is a terrible thing to endure and a dangerous thing to misinterpret. France has lost this contest, not its capacity to shape the next.",
     "denounced": "You have condemned Japan. Very well. I would be more concerned if our national interests were determined by your approval.",
     "neutralDenouncing": "Your government has demonstrated that its ambitions extend beyond its borders and its responsibilities do not. Japan cannot ignore that.",
     "hateDenouncing": "Japan has been patient with you. Do not confuse that patience with an absence of resolve.",
-    "introduction": "I am Sanae Takaichi, Prime Minister of Japan. Our nation has endured, adapted, and advanced many times before. We intend to do so again.",
+    "introduction": "I am Emmanuel Macron, President of France. A nation must do more than inherit its history. It must have the courage to write what comes next.",
 
     "neutralHello": "Hello.",
     "hateHello": "Oh, it's you...",
-    "tradeRequest": "Japan intends to lead in technology, industry, and the fields that will define the next century. Perhaps your nation would benefit from standing beside us.",
+    "tradeRequest": "France offers more than goods and capital. We offer research, infrastructure, culture, and access to a continent whose future remains ours to shape. Shall we begin?",
     "neutralRejectingDemand": "Japan will listen carefully to any reasonable proposal. This is not one of them.",
     "hateRejectingDemand": "You have mistaken Japan's courtesy for submission. That misunderstanding ends here.",
 
