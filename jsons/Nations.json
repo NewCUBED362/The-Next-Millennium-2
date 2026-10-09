@@ -238,7 +238,8 @@
     "innerColor": [234,225,157],
     "uniqueName": "Liberté, Égalité, Fraternité",
     "cities": ["Paris","Marseille","Lyon","Toulouse","Nice","Nantes","Montpellier","Strasbourg","Bordeaux","Lille",
-	           "Rennes","Toulon","Reims","Saint-Étienne","Le Havre","Villeurbanne","Dijon","Angers","Grenoble","Saint-Denis"],
+	           "Rennes","Toulon","Reims","Saint-Étienne","Le Havre","Villeurbanne","Dijon","Angers","Grenoble","Saint-Denis",
+	           "Nîmes","Aix-en-Provence","Clermont-Ferrand","Le Mans","Brest","Tours","Amiens","Annecy","Limoges","Metz"],
   },
   // City-States
   {
