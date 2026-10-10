@@ -133,11 +133,13 @@
 	{
 		"name": "Art Gallery",
 		"culture": 4,
+	    "requiredBuilding": "Broadcast Tower",
 		"requiredTech": "Growth IV",
 	},
 	{
-		"name": "Radio Station",
+		"name": "Broadcast Tower",
 		"culture": 3,
+		"requiredBuilding": "Museum",
 		"requiredTech": "Growth III",
 	},
 	// Districts
