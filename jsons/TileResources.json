@@ -161,9 +161,11 @@
 	{
 		"name": "Power",
 		"resourceType": "Strategic",
+		"uniques": ["Cannot be traded"],
 	},
 	{
 		"name": "Budget",
 		"resourceType": "Strategic",
+		"uniques": ["Cannot be traded"],
 	}
 ]
