@@ -125,6 +125,21 @@
 			        "Must be next to [Coast]",
 			        "[+15]% Production when constructing [Water] units [in this city]"],
 	},
+	{
+		"name": "Museum",
+		"culture": 2,
+		"requiredTech": "Growth I",
+	},
+	{
+		"name": "Art Gallery",
+		"culture": 4,
+		"requiredTech": "Growth IV",
+	},
+	{
+		"name": "Radio Station",
+		"culture": 3,
+		"requiredTech": "Growth III",
+	},
 	// Districts
 	{
 		"name": "Build [Academy]",
