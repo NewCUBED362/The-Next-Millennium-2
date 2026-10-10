@@ -1,5 +1,6 @@
 {
   "name": "GlobalUniques",
   "uniques": ["[-100]% unhappiness from the number of cities",
-              "[-50]% Unhappiness from [Population] [in all cities]",],
+              "[-50]% Unhappiness from [Population] [in all cities]",
+              "[-50]% Culture cost of natural border growth [in all cities]"],
 }
