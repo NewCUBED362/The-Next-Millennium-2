@@ -1,4 +1,13 @@
 [
+	//Spectator
+    //Not "Excluded from map editor" as it serves as placeholder for "Any Civ" starting locations
+  {
+	"name": "Spectator",
+	"outerColor": [255,255,255]
+//	"innerColor": [255,255,255]
+  },
+	
+	// Nations
   {
     "name": "United States",
     "leaderName": "Donald Trump",
