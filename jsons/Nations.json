@@ -266,7 +266,7 @@
     "introduction": "I am Giorgia Meloni, Prime Minister of Italy. We are heirs to a civilisation that shaped the world. I intend for Italy to do more than remember its greatness.",
 
     "neutralHello": "Hello.",
-    "hateHello": "It's you.",
+    "hateHello": "What do YOU want!?",
     "tradeRequest": "Your nation has something Italy needs, and Italy has something the world continues to desire. It would be foolish to let pride prevent a profitable arrangement.",
     "neutralRejectingDemand": "I understand what you want. But governing a nation means knowing when a request, however politely presented, cannot be accepted.",
     "hateRejectingDemand": "You may issue your demands elsewhere. Here, you will find a government that answers to the Italian people—not to you.",
@@ -274,7 +274,7 @@
     "outerColor": [0,0,145],
     "innerColor": [234,225,157],
     "uniqueName": "Pride of Rome",
-    "cities": ["Roma"],
+    "cities": ["Roma","Milan","Naples","Turin","Palermo","Genoa","Bologna","Florence","Bari","Catania"],
   },
   // City-States
   {
