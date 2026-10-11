@@ -274,7 +274,8 @@
     "outerColor": [0,0,145],
     "innerColor": [234,225,157],
     "uniqueName": "Pride of Rome",
-    "cities": ["Roma","Milan","Naples","Turin","Palermo","Genoa","Bologna","Florence","Bari","Catania"],
+    "cities": ["Roma","Milan","Naples","Turin","Palermo","Genoa","Bologna","Florence","Bari","Catania",
+	           "Verona","Venice","Messina","Padua","Brescia","Parma","Trieste","Prato","Taranto","Modena"],
   },
   // City-States
   {
