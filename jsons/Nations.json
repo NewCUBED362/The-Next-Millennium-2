@@ -304,7 +304,8 @@
     "uniqueName": "Ordem e Progresso",
 	"uniques": ["[+1 Happiness, +1 Culture] from [Jungle] tiles [in all cities]"],
     "cities": ["Brasília","São Paulo","Rio de Janeiro","Fortaleza","Salvador","Belo Horizonte","Manaus","Curitiba","Recife","Goiânia",
-	           "Belém","Porto Alegre","Guarulhos","Campinas","São Luís","Maceió","Campo Grande","São Gonçalo","Teresina","João Pessoa"],
+	           "Belém","Porto Alegre","Guarulhos","Campinas","São Luís","Maceió","Campo Grande","São Gonçalo","Teresina","João Pessoa",
+	           "Duque de Caxias","Nova Iguaçu","São Bernardo do Campo","Natal","Santo André","Sorocaba","Uberlândia","Osasco","Ribeirão Preto","São José dos Campos"],
   },
   // City-States
   {
