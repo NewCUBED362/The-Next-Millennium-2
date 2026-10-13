@@ -46,5 +46,32 @@
     "range": 2,
     "requiredTech": "Land Forces II",
     "attackSound": "artillery",
-  }
+  },
+  {
+    "name": "Infantry",
+    "unitType": "Rifles",
+    "cost": 70,
+    "movement": 2,
+    "strength": 40,
+    "requiredTech": "Land Forces II",
+    "attackSound": "shot",
+  },
+  {
+    "name": "Advanced Infantry",
+    "unitType": "Rifles",
+    "cost": 110,
+    "movement": 2,
+    "strength": 55,
+    "requiredTech": "Land Forces VI",
+    "attackSound": "shot",
+  },
+  {
+    "name": "Cybernetic Infantry",
+    "unitType": "Rifles",
+    "cost": 180,
+    "movement": 2,
+    "strength": 70,
+    "requiredTech": "Land Forces IX",
+    "attackSound": "shot",
+  },
 ]
