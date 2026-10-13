@@ -297,8 +297,8 @@
     "neutralRejectingDemand": "I understand your position, and I respect your right to make the request. But I was elected to represent the Brazilian people, and I cannot agree to something that works against their interests.",
     "hateRejectingDemand": "My friend, I have negotiated with people who had much more power than I did. I learned something important: never agree to a bad deal just because the other person is shouting.",
 
-    "outerColor": [97,191,34],
-    "innerColor": [202,20,20],
+    "outerColor": [0,148,64],
+    "innerColor": [255,203,0],
     "uniqueName": "Ordem e Progresso",
     "cities": ["Capital"],
   },
