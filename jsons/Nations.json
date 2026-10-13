@@ -303,7 +303,7 @@
     "innerColor": [255,203,0],
     "uniqueName": "Ordem e Progresso",
 	"uniques": ["[+1 Happiness, +1 Culture] from [Jungle] tiles [in all cities]"],
-    "cities": ["Capital"],
+    "cities": ["Brasília","São Paulo","Rio de Janeiro","Fortaleza","Salvador","Belo Horizonte","Manaus","Curitiba","Recife","Goiânia"],
   },
   // City-States
   {
