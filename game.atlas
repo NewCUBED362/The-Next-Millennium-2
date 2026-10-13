@@ -6,246 +6,267 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Coal Power Plant
   rotate: false
-  xy: 140, 212
+  xy: 140, 240
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Park
   rotate: false
-  xy: 412, 76
+  xy: 412, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Shopping Mall
   rotate: false
-  xy: 684, 348
+  xy: 684, 376
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Water Purification Plant
   rotate: false
-  xy: 820, 348
+  xy: 820, 376
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Brazil
   rotate: false
-  xy: 140, 348
+  xy: 140, 376
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/China
   rotate: false
-  xy: 4, 76
+  xy: 4, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/France
   rotate: false
-  xy: 140, 76
+  xy: 140, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Germany
   rotate: false
-  xy: 276, 212
+  xy: 276, 240
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Indonesia
   rotate: false
-  xy: 412, 348
+  xy: 412, 376
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Italy
   rotate: false
-  xy: 412, 212
+  xy: 412, 240
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Japan
   rotate: false
-  xy: 548, 348
+  xy: 548, 376
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Russian Federation
   rotate: false
-  xy: 548, 212
+  xy: 548, 240
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/United Kingdom
   rotate: false
-  xy: 548, 76
+  xy: 548, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/United States
   rotate: false
-  xy: 684, 212
+  xy: 684, 240
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Power
   rotate: false
-  xy: 4, 4
+  xy: 820, 304
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-21st Century
   rotate: false
-  xy: 820, 304
+  xy: 76, 60
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Coast
   rotate: false
-  xy: 76, 40
+  xy: 820, 268
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Desert
   rotate: false
-  xy: 684, 140
+  xy: 892, 340
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grassland
   rotate: false
-  xy: 724, 176
+  xy: 116, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ocean
   rotate: false
-  xy: 820, 268
+  xy: 860, 268
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Plains
   rotate: false
-  xy: 860, 312
+  xy: 156, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tundra
   rotate: false
-  xy: 76, 4
+  xy: 196, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Advanced Infantry
   rotate: false
-  xy: 684, 176
+  xy: 4, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Basic Infantry
   rotate: false
-  xy: 684, 176
+  xy: 4, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cybernetic Infantry
   rotate: false
-  xy: 684, 176
+  xy: 4, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry
   rotate: false
-  xy: 684, 176
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Main Battle Tank
+  rotate: false
+  xy: 892, 304
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-21st Century
   rotate: false
-  xy: 956, 339
+  xy: 956, 367
   size: 64, 73
   orig: 64, 73
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Advanced Infantry
   rotate: false
-  xy: 956, 420
+  xy: 956, 448
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Basic Infantry
   rotate: false
-  xy: 956, 420
+  xy: 956, 448
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Cybernetic Infantry
   rotate: false
-  xy: 956, 420
+  xy: 956, 448
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Infantry
   rotate: false
-  xy: 956, 420
+  xy: 956, 448
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Main Battle Tank
+  rotate: false
+  xy: 4, 40
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 UnitIcons/Advanced Infantry
   rotate: false
-  xy: 4, 348
+  xy: 4, 376
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Basic Infantry
   rotate: false
-  xy: 4, 212
+  xy: 4, 240
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Cybernetic Infantry
   rotate: false
-  xy: 276, 348
+  xy: 276, 376
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Infantry
   rotate: false
-  xy: 276, 76
+  xy: 276, 104
   size: 128, 128
   orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Main Battle Tank
+  rotate: false
+  xy: 684, 132
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
