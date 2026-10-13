@@ -46,6 +46,12 @@
         "name": "Land Forces I",
         "row": 6,
         "prerequisites": ["New Millennium"],
+      },
+      {
+        "name": "Navy I",
+        "row": 8,
+        "prerequisites": ["New Millennium"],
+        "uniques": ["Enables embarkation for land units"],
       }
     ]
   },
@@ -81,6 +87,12 @@
         "name": "Land Forces II",
         "row": 6,
         "prerequisites": ["Land Forces I"],
+      },
+      {
+        "name": "Navy II",
+        "row": 8,
+        "prerequisites": ["Navy I"],
+        "uniques": ["Enables [all] units to enter ocean tiles"],
       }
     ]
   },
