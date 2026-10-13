@@ -278,6 +278,30 @@
 	           "Verona","Venice","Messina","Padua","Brescia","Parma","Trieste","Prato","Taranto","Modena",
 	           "Reggio Emilia","Reggio Calabria","Perugia","Ravenna","Livorno","Rimini","Cagliari","Foggia","Ferrara","Latina"],
   },
+  {
+    "name": "Brazil",
+    "leaderName": "Luiz Inácio Lula da Silva",
+    "startBias": ["Grassland"],
+
+    "declaringWar": "Italy has no desire to spill blood for the vanity of others. But if you believe our restraint makes us an easy target, you have badly misjudged us.",
+    "attacked": "You have brought war to Italian soil. Remember that this land has survived the rise and fall of powers far greater than your own.",
+    "defeated": "Our flag may have fallen, but the history behind it has not disappeared. Italy has endured too much to believe that this is the end.",
+    "denounced": "You may criticise Italy as loudly as you please. Our identity, our interests, and our future are not yours to define.",
+    "neutralDenouncing": "A nation's strength is not measured only by what it demands from others, but by what it is willing to defend. Your conduct leaves that question unanswered.",
+    "hateDenouncing": "I have no interest in repeating a conversation whose lessons you have so thoroughly refused to learn.",
+    "introduction": "I am Giorgia Meloni, Prime Minister of Italy. We are heirs to a civilisation that shaped the world. I intend for Italy to do more than remember its greatness.",
+
+    "neutralHello": "Hello.",
+    "hateHello": "What do YOU want!?",
+    "tradeRequest": "Your nation has something Italy needs, and Italy has something the world continues to desire. It would be foolish to let pride prevent a profitable arrangement.",
+    "neutralRejectingDemand": "I understand what you want. But governing a nation means knowing when a request, however politely presented, cannot be accepted.",
+    "hateRejectingDemand": "You may issue your demands elsewhere. Here, you will find a government that answers to the Italian people—not to you.",
+
+    "outerColor": [97,191,34],
+    "innerColor": [202,20,20],
+    "uniqueName": "Ordem e Progresso",
+    "cities": ["Capital"],
+  },
   // City-States
   {
     "name": "South Korea",
@@ -316,16 +340,16 @@
     "cities": ["Abuja"],
   },
   {
-    "name": "Brazil",
+    "name": "Uruguay",
 	"cityStateType": "Agricultural",
 
     "declaringWar": "We have no choice. War it must be.",
 	"attacked": "Very well. This shall not be forgotten.",
-	"defeated": "May God grant me these last wishes - peace and prosperity for Brazil.",
+	"defeated": "May God grant me these last wishes - peace and prosperity for Uruguay.",
 
-    "innerColor": [0,148,64],
+    "innerColor": [255,255,255],
     "outerColor": [0,0,0],
-    "cities": ["Brasília"],
+    "cities": ["Montevideo"],
   },
   {
     "name": "Bangladesh",
