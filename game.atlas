@@ -6,140 +6,154 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Coal Power Plant
   rotate: false
-  xy: 276, 104
+  xy: 412, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Park
   rotate: false
-  xy: 956, 104
+  xy: 1228, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Shopping Mall
   rotate: false
-  xy: 1228, 104
+  xy: 1500, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Water Purification Plant
   rotate: false
-  xy: 1636, 104
+  xy: 1908, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/China
+NationIcons/Brazil
   rotate: false
   xy: 140, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/France
+NationIcons/China
   rotate: false
-  xy: 412, 104
+  xy: 276, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/Germany
+NationIcons/France
   rotate: false
   xy: 548, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/Indonesia
+NationIcons/Germany
   rotate: false
   xy: 684, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/Japan
+NationIcons/Indonesia
   rotate: false
   xy: 820, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/Russian Federation
+NationIcons/Italy
+  rotate: false
+  xy: 956, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Japan
   rotate: false
   xy: 1092, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/United Kingdom
+NationIcons/Russian Federation
   rotate: false
   xy: 1364, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
+NationIcons/United Kingdom
+  rotate: false
+  xy: 1636, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 NationIcons/United States
   rotate: false
-  xy: 1500, 104
+  xy: 1772, 104
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Power
   rotate: false
-  xy: 1844, 168
+  xy: 148, 32
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-21st Century
   rotate: false
-  xy: 76, 60
+  xy: 220, 60
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Coast
   rotate: false
-  xy: 1772, 123
+  xy: 260, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Desert
   rotate: false
-  xy: 1916, 204
+  xy: 300, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grassland
   rotate: false
-  xy: 116, 68
+  xy: 340, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ocean
   rotate: false
-  xy: 1916, 168
+  xy: 380, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Plains
   rotate: false
-  xy: 1956, 204
+  xy: 420, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tundra
   rotate: false
-  xy: 156, 68
+  xy: 460, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -153,7 +167,7 @@ TileSets/FantasyHex/Units/Basic Infantry
   index: -1
 TileSets/HexaRealm/Tiles/City center-21st Century
   rotate: false
-  xy: 1772, 159
+  xy: 76, 23
   size: 64, 73
   orig: 64, 73
   offset: 0, 0
