@@ -15,5 +15,9 @@
         "name": "Siege",
         "movementType": "Land",
         "uniques": ["[+150]% Strength <vs cities> <when attacking>"],
-    }
+    },
+    {
+        "name": "Heavy Armor",
+        "movementType": "Land"
+    },
 ]
