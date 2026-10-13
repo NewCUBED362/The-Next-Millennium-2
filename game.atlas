@@ -1,187 +1,250 @@
 
 game.png
-size: 2048, 256
+size: 1024, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Coal Power Plant
   rotate: false
-  xy: 412, 104
+  xy: 140, 212
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Park
   rotate: false
-  xy: 1228, 104
+  xy: 412, 76
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Shopping Mall
   rotate: false
-  xy: 1500, 104
+  xy: 684, 348
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Water Purification Plant
   rotate: false
-  xy: 1908, 104
+  xy: 820, 348
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Brazil
   rotate: false
-  xy: 140, 104
+  xy: 140, 348
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/China
   rotate: false
-  xy: 276, 104
+  xy: 4, 76
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/France
   rotate: false
-  xy: 548, 104
+  xy: 140, 76
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Germany
   rotate: false
-  xy: 684, 104
+  xy: 276, 212
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Indonesia
   rotate: false
-  xy: 820, 104
+  xy: 412, 348
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Italy
   rotate: false
-  xy: 956, 104
+  xy: 412, 212
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Japan
   rotate: false
-  xy: 1092, 104
+  xy: 548, 348
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Russian Federation
   rotate: false
-  xy: 1364, 104
+  xy: 548, 212
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/United Kingdom
   rotate: false
-  xy: 1636, 104
+  xy: 548, 76
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/United States
   rotate: false
-  xy: 1772, 104
+  xy: 684, 212
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Power
   rotate: false
-  xy: 148, 32
+  xy: 4, 4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-21st Century
   rotate: false
-  xy: 220, 60
+  xy: 820, 304
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Coast
   rotate: false
-  xy: 260, 68
+  xy: 76, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Desert
   rotate: false
-  xy: 300, 68
+  xy: 684, 140
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grassland
   rotate: false
-  xy: 340, 68
+  xy: 724, 176
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ocean
   rotate: false
-  xy: 380, 68
+  xy: 820, 268
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Plains
   rotate: false
-  xy: 420, 68
+  xy: 860, 312
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tundra
   rotate: false
-  xy: 460, 68
+  xy: 76, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Advanced Infantry
+  rotate: false
+  xy: 684, 176
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Basic Infantry
   rotate: false
-  xy: 4, 4
+  xy: 684, 176
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Cybernetic Infantry
+  rotate: false
+  xy: 684, 176
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Infantry
+  rotate: false
+  xy: 684, 176
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-21st Century
   rotate: false
-  xy: 76, 23
+  xy: 956, 339
   size: 64, 73
   orig: 64, 73
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Basic Infantry
+TileSets/HexaRealm/Units/Advanced Infantry
   rotate: false
-  xy: 4, 40
+  xy: 956, 420
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Basic Infantry
+  rotate: false
+  xy: 956, 420
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Cybernetic Infantry
+  rotate: false
+  xy: 956, 420
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Infantry
+  rotate: false
+  xy: 956, 420
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+UnitIcons/Advanced Infantry
+  rotate: false
+  xy: 4, 348
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 UnitIcons/Basic Infantry
   rotate: false
-  xy: 4, 104
+  xy: 4, 212
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Cybernetic Infantry
+  rotate: false
+  xy: 276, 348
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Infantry
+  rotate: false
+  xy: 276, 76
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
