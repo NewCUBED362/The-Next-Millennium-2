@@ -274,6 +274,8 @@
     "outerColor": [97,191,34],
     "innerColor": [202,20,20],
     "uniqueName": "Pride of Rome",
+	"uniques": ["[+20]% [Culture] [in capital]",
+		        "[+1 Culture] [in all coastal cities]"],
     "cities": ["Roma","Milan","Naples","Turin","Palermo","Genoa","Bologna","Florence","Bari","Catania",
 	           "Verona","Venice","Messina","Padua","Brescia","Parma","Trieste","Prato","Taranto","Modena",
 	           "Reggio Emilia","Reggio Calabria","Perugia","Ravenna","Livorno","Rimini","Cagliari","Foggia","Ferrara","Latina"],
@@ -300,6 +302,7 @@
     "outerColor": [0,148,64],
     "innerColor": [255,203,0],
     "uniqueName": "Ordem e Progresso",
+	"uniques": ["[+1 Happiness, +1 Culture] from [Jungle] tiles [in all cities]"],
     "cities": ["Capital"],
   },
   // City-States
