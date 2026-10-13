@@ -281,19 +281,19 @@
   {
     "name": "Brazil",
     "leaderName": "Luiz Inácio Lula da Silva",
-    "startBias": ["Grassland"],
+    "startBias": ["Jungle"],
 
-    "declaringWar": "Italy has no desire to spill blood for the vanity of others. But if you believe our restraint makes us an easy target, you have badly misjudged us.",
-    "attacked": "You have brought war to Italian soil. Remember that this land has survived the rise and fall of powers far greater than your own.",
-    "defeated": "Our flag may have fallen, but the history behind it has not disappeared. Italy has endured too much to believe that this is the end.",
+    "declaringWar": "I have spent my life trying to bring people to the negotiating table. But you cannot negotiate with someone who believes that only their interests matter. Brazil will defend itself.",
+    "attacked": "You can bomb our cities and damage our roads, but you cannot make an entire people forget who they are or what they are fighting for.",
+    "defeated": "I have seen difficult days before. I have seen people lose almost everything and still find the strength to begin again. Brazil will begin again.",
     "denounced": "You may criticise Italy as loudly as you please. Our identity, our interests, and our future are not yours to define.",
     "neutralDenouncing": "A nation's strength is not measured only by what it demands from others, but by what it is willing to defend. Your conduct leaves that question unanswered.",
     "hateDenouncing": "I have no interest in repeating a conversation whose lessons you have so thoroughly refused to learn.",
-    "introduction": "I am Giorgia Meloni, Prime Minister of Italy. We are heirs to a civilisation that shaped the world. I intend for Italy to do more than remember its greatness.",
+    "introduction": "I am Lula, President of Brazil. A country is not great just because it is rich. It is great when its people can sit down to eat, send their children to school, and look toward tomorrow without fear.",
 
     "neutralHello": "Hello.",
     "hateHello": "What do YOU want!?",
-    "tradeRequest": "Your nation has something Italy needs, and Italy has something the world continues to desire. It would be foolish to let pride prevent a profitable arrangement.",
+    "tradeRequest": "Look, my friend, trade should not be a game where one side always wins and the other always pays. Let us make an agreement that we can both defend in front of our own people.",
     "neutralRejectingDemand": "I understand what you want. But governing a nation means knowing when a request, however politely presented, cannot be accepted.",
     "hateRejectingDemand": "You may issue your demands elsewhere. Here, you will find a government that answers to the Italian people—not to you.",
 
