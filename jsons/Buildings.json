@@ -144,24 +144,6 @@
 		"requiredTech": "Culture III",
 		"uniques": ["Consumes [1] [Power]"],
 	},
-	// Spy Buildings
-	{
-		"name": "Underground Spy Bunker",
-		"requiredTech": "Foreign Relations II",
-		"uniques": ["Gain an extra spy"],
-	},
-	{
-		"name": "Espionage Office",
-		"requiredBuilding": "Underground Spy Bunker",
-		"requiredTech": "Foreign Relations III",
-		"uniques": ["Gain an extra spy","Gain an extra spy"],
-	},
-	{
-		"name": "Espionage Department HQ",
-		"requiredBuilding": "Espionage Office",
-		"requiredTech": "Foreign Relations IV",
-		"uniques": ["Gain an extra spy","Gain an extra spy"],
-	},
 	// Districts
 	{
 		"name": "Build [Academy]",
