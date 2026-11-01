@@ -35,7 +35,8 @@
     "cities": ["Washington D.C.","New York","Los Angeles","Chicago","Houston","Phoenix","Philadelphia","San Antonio","San Diego","Dallas",
                "Fort Worth","Jacksonville","Austin","San Jose","Charlotte","Columbus","Indianapolis","San Francisco","Seattle","Denver",
                "Nashville","Oklahoma City","El Paso","Las Vegas","Boston","Detroit","Louisville","Portland","Memphis","Baltimore"],
-	"spyNames": ["Amelia"],
+	"spyNames": ["Olivia","Emma","Charlotte","Sophia","Amelia","Emily","Elizabeth",
+		         "Liam","Noah","James","William","Benjamin","Henry","Michael","Daniel"],
   },
   {
     "name": "Russian Federation",
