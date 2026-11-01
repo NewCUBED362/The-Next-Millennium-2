@@ -65,6 +65,8 @@
     "cities": ["Moscow","Saint Petersburg","Novosibirsk","Yekaterinburg","Kazan","Nizhny Novgorod","Chelyabinsk","Krasnoyarsk","Samara","Ufa",
                "Rostov-on-Don","Omsk","Krasnodar","Voronezh","Perm","Volgograd","Saratov","Tyumen","Tolyatti","Barnaul",
                "Izhevsk","Makhachkala","Khabarovsk","Ulyanovsk","Irkutsk","Vladivostok","Yaroslavl","Kemerovo","Tomsk","Naberezhnye Chelny"],
+	"spyNames": ["Olivia","Emma","Charlotte","Sophia","Amelia","Emily","Elizabeth",
+		         "Liam","Noah","James","William","Benjamin","Henry","Michael","Daniel"],
   },
   {
     "name": "United Kingdom",
@@ -88,6 +90,8 @@
     "cities": ["London","Birmingham","Leeds","Glasgow","Manchester","Sheffield","Bradford","Edinburgh","Liverpool","Bristol",
                "Cardiff","Leicester","Coventry","Wakefield","Belfast","Nottingham","Newcastle-upon-Tyne","Doncaster","Milton Keynes","Salford",
                "Sunderland","Brighton and Hove","Wolverhampton","Kingston upon Hull","Plymouth","Derby","Stoke-on-Trent","Southampton","Swansea","Aberdeen"]
+	"spyNames": ["Olivia","Emma","Charlotte","Sophia","Amelia","Emily","Elizabeth",
+		         "Liam","Noah","James","William","Benjamin","Henry","Michael","Daniel"],
   },
   {
     "name": "China",
@@ -116,6 +120,8 @@
     "cities": ["Beijing","Shanghai","Shenzhen","Guangzhou","Chengdu","Tianjin","Wuhan","Dongguan","Chongqing","Xi'an",
                "Hangzhou","Foshan","Nanjing","Shenyang","Zhengzhou","Qingdao","Suzhou","Jinan","Changsha","Kunming",
                "Harbin","Shijiazhuang","Hefei","Dalian","Xiamen","Nanning","Changchun","Taiyuan","Guiyang","Wuxi"]
+	"spyNames": ["Olivia","Emma","Charlotte","Sophia","Amelia","Emily","Elizabeth",
+		         "Liam","Noah","James","William","Benjamin","Henry","Michael","Daniel"],
   },
   {
     "name": "India",
