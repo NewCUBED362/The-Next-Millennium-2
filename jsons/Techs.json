@@ -57,6 +57,8 @@
         "name": "Foreign Relations I",
         "row": 10,
         "prerequisites": ["New Millennium"],
+        "uniques": ["Enables Open Borders agreements",
+                    "Enables establishment of embassies"],
       }
     ]
   },
@@ -210,6 +212,7 @@
         "name": "Foreign Relations III",
         "row": 10,
         "prerequisites": ["Foreign Relations II"],
+        "uniques": ["Enables Research agreements"],
       }
     ]
   },
@@ -283,6 +286,7 @@
         "name": "Foreign Relations IV",
         "row": 10,
         "prerequisites": ["Foreign Relations III"],
+        "uniques": ["Enables Defensive Pacts"],
       }
     ]
   },
@@ -390,6 +394,7 @@
         "name": "Foreign Relations V",
         "row": 10,
         "prerequisites": ["Foreign Relations IV"],
+        "uniques": ["[-30]% City-State Influence degradation"],
       }
     ]
   },
