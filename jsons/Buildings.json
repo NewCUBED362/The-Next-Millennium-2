@@ -121,26 +121,46 @@
 	{
 		"name": "Seaport",
 		"requiredTech": "Economics V",
-		"uniques": ["[+1 Production, +1 Gold] from [Water resource] tiles [in this city]",
+		"uniques": ["Consumes [1] [Power]",
+			        "[+1 Production, +1 Gold] from [Water resource] tiles [in this city]",
 			        "Must be next to [Coast]",
 			        "[+15]% Production when constructing [Water] units [in this city]"],
 	},
 	{
 		"name": "Museum",
 		"culture": 2,
-		"requiredTech": "Growth I",
+		"requiredTech": "Culture I",
 	},
 	{
 		"name": "Art Gallery",
 		"culture": 4,
 	    "requiredBuilding": "Broadcast Tower",
-		"requiredTech": "Growth IV",
+		"requiredTech": "Culture IV",
 	},
 	{
 		"name": "Broadcast Tower",
 		"culture": 3,
 		"requiredBuilding": "Museum",
-		"requiredTech": "Growth III",
+		"requiredTech": "Culture III",
+		"uniques": ["Consumes [1] [Power]"],
+	},
+	// Spy Buildings
+	{
+		"name": "Underground Spy Bunker",
+		"requiredTech": "Foreign Relations II",
+		"uniques": ["Gain an extra spy"],
+	},
+	{
+		"name": "Espionage Office",
+		"requiredBuilding": "Underground Spy Bunker",
+		"requiredTech": "Foreign Relations III",
+		"uniques": ["Gain an extra spy","Gain an extra spy"],
+	},
+	{
+		"name": "Espionage Department HQ",
+		"requiredBuilding": "Espionage Office",
+		"requiredTech": "Foreign Relations IV",
+		"uniques": ["Gain an extra spy","Gain an extra spy"],
 	},
 	// Districts
 	{
