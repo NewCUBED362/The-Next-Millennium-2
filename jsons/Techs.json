@@ -351,11 +351,6 @@
         "name": "Land Forces IX",
         "row": 6,
         "prerequisites": ["Land Forces VIII"],
-      },
-      {
-        "name": "Foreign Relations V",
-        "row": 10,
-        "prerequisites": ["Foreign Relations IV"],
       }
     ]
   },
@@ -390,6 +385,11 @@
         "name": "Land Forces X",
         "row": 6,
         "prerequisites": ["Land Forces IX"],
+      },
+      {
+        "name": "Foreign Relations V",
+        "row": 10,
+        "prerequisites": ["Foreign Relations IV"],
       }
     ]
   },
