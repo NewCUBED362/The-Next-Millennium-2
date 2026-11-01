@@ -326,9 +326,9 @@
     "neutralRejectingDemand": "Your proposal has been considered. However, no agreement can be acceptable if it requires Iran to surrender its legitimate independence.",
     "hateRejectingDemand": "You have no authority to dictate the decisions of the Islamic Republic. Your demand is rejected.",
 
-    "outerColor": [0,148,64],
-    "innerColor": [255,203,0],
-    "uniqueName": "Iran",
+    "outerColor": [30,138,6],
+    "innerColor": [206,12,1],
+    "uniqueName": "Esteqlâl, Âzâdi, Jomhuri-ye Eslâmi",
 	"uniques": ["[+1 Production, +1 Food] from each Trade Route",
 		        "[+10]% Production when constructing [Military] units [in all non-occupied cities]"],
     "cities": ["Tehran"],
