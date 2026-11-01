@@ -52,6 +52,11 @@
         "row": 8,
         "prerequisites": ["New Millennium"],
         "uniques": ["Enables embarkation for land units"],
+      },
+      {
+        "name": "Foreign Relations I",
+        "row": 10,
+        "prerequisites": ["New Millennium"],
       }
     ]
   },
@@ -127,6 +132,11 @@
         "name": "Land Forces III",
         "row": 6,
         "prerequisites": ["Land Forces II"],
+      },
+      {
+        "name": "Foreign Relations II",
+        "row": 10,
+        "prerequisites": ["Foreign Relations I"],
       }
     ]
   },
@@ -195,6 +205,11 @@
         "name": "Land Forces V",
         "row": 6,
         "prerequisites": ["Land Forces IV"],
+      },
+      {
+        "name": "Foreign Relations III",
+        "row": 10,
+        "prerequisites": ["Foreign Relations II"],
       }
     ]
   },
@@ -263,6 +278,11 @@
         "name": "Land Forces VII",
         "row": 6,
         "prerequisites": ["Land Forces VI"],
+      },
+      {
+        "name": "Foreign Relations IV",
+        "row": 10,
+        "prerequisites": ["Foreign Relations III"],
       }
     ]
   },
@@ -331,6 +351,11 @@
         "name": "Land Forces IX",
         "row": 6,
         "prerequisites": ["Land Forces VIII"],
+      },
+      {
+        "name": "Foreign Relations V",
+        "row": 10,
+        "prerequisites": ["Foreign Relations IV"],
       }
     ]
   },
@@ -378,7 +403,8 @@
       {
         "name": "Future Tech",
         "row": 6,
-        "prerequisites": ["Research X","Economics X","Growth X","Culture X","Land Forces X"],
+        "prerequisites": ["Research X","Economics X","Growth X","Culture X","Land Forces X",
+                          "Foreign Relations V"],
         "uniques": ["Can be continually researched"],
     	  "quote": "'I think we agree, the past is over.' - George W. Bush",
         "civilopediaText": [{"text": "Who knows what the future holds?"}]
