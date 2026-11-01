@@ -332,7 +332,8 @@
 	"uniques": ["[+1 Production, +1 Food] from each Trade Route",
 		        "[+10]% Production when constructing [Military] units [in all non-occupied cities]"],
     "cities": ["Tehran","Mashhad","Isfahan","Karaj","Shiraz","Tabriz","Qom","Ahvaz","Kermanshah","Urmia",
-	           "Rasht","Zahedan","Hamadan","Kerman","Yazd","Ardabil","Bandar Abbas","Arak","Eslamshahr","Zanjan"],
+	           "Rasht","Zahedan","Hamadan","Kerman","Yazd","Ardabil","Bandar Abbas","Arak","Eslamshahr","Zanjan",
+	           "Sanandaj","Qazvin","Khorramabad","Gorgan","Sari","Shahriar","Qods","Kashan","Malard","Dezful"],
   },
   // City-States
   {
