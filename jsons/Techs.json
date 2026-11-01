@@ -58,7 +58,8 @@
         "row": 10,
         "prerequisites": ["New Millennium"],
         "uniques": ["Enables Open Borders agreements",
-                    "Enables establishment of embassies"],
+                    "Enables establishment of embassies",
+                    "Gain an extra spy"],
       }
     ]
   },
@@ -139,6 +140,7 @@
         "name": "Foreign Relations II",
         "row": 10,
         "prerequisites": ["Foreign Relations I"],
+        "uniques": ["Gain an extra spy"],
       }
     ]
   },
@@ -212,7 +214,8 @@
         "name": "Foreign Relations III",
         "row": 10,
         "prerequisites": ["Foreign Relations II"],
-        "uniques": ["Enables Research agreements"],
+        "uniques": ["Enables Research agreements",
+                    "Gain an extra spy"],
       }
     ]
   },
@@ -286,7 +289,8 @@
         "name": "Foreign Relations IV",
         "row": 10,
         "prerequisites": ["Foreign Relations III"],
-        "uniques": ["Enables Defensive Pacts"],
+        "uniques": ["Enables Defensive Pacts",
+                    "Gain an extra spy"],
       }
     ]
   },
@@ -394,7 +398,8 @@
         "name": "Foreign Relations V",
         "row": 10,
         "prerequisites": ["Foreign Relations IV"],
-        "uniques": ["[-30]% City-State Influence degradation"],
+        "uniques": ["[-30]% City-State Influence degradation",
+                    "Gain an extra spy"],
       }
     ]
   },
