@@ -310,7 +310,7 @@
   {
     "name": "Iran",
     "leaderName": "Mojtaba Khamenei",
-    "startBias": ["Hill"],
+    "startBias": ["Desert","Plains"],
 
     "declaringWar": "We have not sought this confrontation. But a nation that abandons its principles whenever it faces pressure has already surrendered something far more important than territory.",
     "attacked": "You have brought destruction to our land, believing that force alone can determine the future. History has repeatedly shown the limits of such thinking.",
