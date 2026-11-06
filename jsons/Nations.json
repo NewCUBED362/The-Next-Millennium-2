@@ -356,6 +356,8 @@
     "cities": ["Tehran","Mashhad","Isfahan","Karaj","Shiraz","Tabriz","Qom","Ahvaz","Kermanshah","Urmia",
 	           "Rasht","Zahedan","Hamadan","Kerman","Yazd","Ardabil","Bandar Abbas","Arak","Eslamshahr","Zanjan",
 	           "Sanandaj","Qazvin","Khorramabad","Gorgan","Sari","Shahriar","Qods","Kashan","Malard","Dezful"],
+	"spyNames": ["Banu","Firuzeh","Laleh","Roghayeh","Yasamin","Darya","Niusha",
+	             "Arash","Firdaus","Kianoush"],
   },
   // City-States
   {
