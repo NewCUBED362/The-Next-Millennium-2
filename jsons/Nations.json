@@ -522,7 +522,7 @@
 
     "declaringWar": "We have no choice. War it must be.",
 	"attacked": "Very well. This shall not be forgotten.",
-	"defeated": "Perhaps, in another world, we could have been friends...",
+	"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 
     "innerColor": [255,255,255],
     "outerColor": [0,0,0],
@@ -532,9 +532,9 @@
     "name": "Ireland",
 	"cityStateType": "Agricultural",
 
-    "declaringWar": "We have no choice. War it must be.",
-	"attacked": "Very well. This shall not be forgotten.",
-	"defeated": "Perhaps, in another world, we could have been friends...",
+    "declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
+	"attacked": "Traitorous man! The Celtic peoples will not stand for such wanton abuse and slander - I shall have your balls!",
+	"defeated": "Vile ruler, know you have won this war in name alone. Your cities lie buried and your troops defeated. I have my own victory.",
 
     "innerColor": [22,155,98],
     "outerColor": [0,0,0],
