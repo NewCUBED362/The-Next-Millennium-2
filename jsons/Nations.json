@@ -504,4 +504,16 @@
     "outerColor": [0,0,0],
     "cities": ["Brussels"],
   },
+  {
+    "name": "Singapore",
+	"cityStateType": "Economic",
+
+    "declaringWar": "We have no choice. War it must be.",
+	"attacked": "Very well. This shall not be forgotten.",
+	"defeated": "Perhaps, in another world, we could have been friends...",
+
+    "innerColor": [238,37,54],
+    "outerColor": [0,0,0],
+    "cities": ["Singapore"],
+  },
 ]
