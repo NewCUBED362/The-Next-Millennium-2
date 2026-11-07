@@ -540,4 +540,16 @@
     "outerColor": [0,0,0],
     "cities": ["Dublin"],
   },
+  {
+    "name": "Ukraine",
+	"cityStateType": "Economic",
+
+    "declaringWar": "We have no choice. War it must be.",
+	"attacked": "Very well. This shall not be forgotten.",
+	"defeated": "Perhaps, in another world, we could have been friends...",
+
+    "innerColor": [0,87,183],
+    "outerColor": [0,0,0],
+    "cities": ["Kyiv"],
+  },
 ]
