@@ -524,7 +524,7 @@
 	"attacked": "Very well. This shall not be forgotten.",
 	"defeated": "Perhaps, in another world, we could have been friends...",
 
-    "innerColor": [238,37,54],
+    "innerColor": [255,255,255],
     "outerColor": [0,0,0],
     "cities": ["Bern"],
   },
