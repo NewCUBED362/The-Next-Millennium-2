@@ -518,7 +518,7 @@
   },
   {
     "name": "Switzerland",
-	"cityStateType": "Economic",
+	"cityStateType": "Industrial",
 
     "declaringWar": "We have no choice. War it must be.",
 	"attacked": "Very well. This shall not be forgotten.",
@@ -530,7 +530,7 @@
   },
   {
     "name": "Ireland",
-	"cityStateType": "Economic",
+	"cityStateType": "Agricultural",
 
     "declaringWar": "We have no choice. War it must be.",
 	"attacked": "Very well. This shall not be forgotten.",
@@ -542,7 +542,7 @@
   },
   {
     "name": "Ukraine",
-	"cityStateType": "Economic",
+	"cityStateType": "Agricultural",
 
     "declaringWar": "We have no choice. War it must be.",
 	"attacked": "Very well. This shall not be forgotten.",
@@ -551,5 +551,17 @@
     "innerColor": [0,87,183],
     "outerColor": [0,0,0],
     "cities": ["Kyiv"],
+  },
+  {
+    "name": "Qatar",
+	"cityStateType": "Economic",
+
+    "declaringWar": "We have no choice. War it must be.",
+	"attacked": "Very well. This shall not be forgotten.",
+	"defeated": "Perhaps, in another world, we could have been friends...",
+
+    "innerColor": [138,21,56],
+    "outerColor": [0,0,0],
+    "cities": ["Doha"],
   },
 ]
