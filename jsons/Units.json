@@ -66,6 +66,8 @@
     "rangedStrength": 50,
     "range": 5,
     "requiredTech": "Navy IV",
+    "uniques": ["[+50]% Strength <vs [Frigate] units>",
+                "[+50]% Strength <vs [Land] units>"],
     "attackSound": "shipguns",
   },
   {
