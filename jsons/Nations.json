@@ -381,6 +381,8 @@
     "outerColor": [255,255,255],
     "innerColor": [239,51,64],
     "uniqueName": "O Canada",
+	"uniques": ["[+2 Gold] from [{improved} {Tundra}] tiles [in all cities]",
+		        "[+2 Gold] from [{improved} {Snow}] tiles [in all cities]"],
     "cities": ["Ottawa","Toronto","Montreal","Calgary","Edmonton","Winnipeg","Mississauga","Vancouver","Brampton","Hamilton",
 	           "Surrey","Quebec City","Halifax","Laval","London","Markham","Vaughan","Gatineau","Saskatoon","Kitchener",
 	           "Longueuil","Burnaby","Windsor","Regina","Oakville","Richmond","Richmond Hill","Burlington","Oshawa","Sherbrooke"],
