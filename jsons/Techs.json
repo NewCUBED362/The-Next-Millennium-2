@@ -137,6 +137,11 @@
         "prerequisites": ["Land Forces II"],
       },
       {
+        "name": "Navy III",
+        "row": 8,
+        "prerequisites": ["Navy II"],
+      },
+      {
         "name": "Foreign Relations II",
         "row": 10,
         "prerequisites": ["Foreign Relations I"],
@@ -175,6 +180,11 @@
         "name": "Land Forces IV",
         "row": 6,
         "prerequisites": ["Land Forces III"],
+      },
+      {
+        "name": "Navy IV",
+        "row": 8,
+        "prerequisites": ["Navy III"],
       }
     ]
   },
@@ -209,6 +219,11 @@
         "name": "Land Forces V",
         "row": 6,
         "prerequisites": ["Land Forces IV"],
+      },
+      {
+        "name": "Navy V",
+        "row": 8,
+        "prerequisites": ["Navy IV"],
       },
       {
         "name": "Foreign Relations III",
@@ -250,7 +265,12 @@
         "name": "Land Forces VI",
         "row": 6,
         "prerequisites": ["Land Forces V"],
-      }
+      },
+      {
+        "name": "Navy VI",
+        "row": 8,
+        "prerequisites": ["Navy V"],
+      },
     ]
   },
   {
@@ -284,6 +304,11 @@
         "name": "Land Forces VII",
         "row": 6,
         "prerequisites": ["Land Forces VI"],
+      },
+      {
+        "name": "Navy VII",
+        "row": 8,
+        "prerequisites": ["Navy VI"],
       },
       {
         "name": "Foreign Relations IV",
@@ -320,6 +345,11 @@
         "name": "Culture VIII",
         "row": 4,
         "prerequisites": ["Culture VII"],
+      },
+      {
+        "name": "Navy VIII",
+        "row": 8,
+        "prerequisites": ["Navy VII"],
       },
       {
         "name": "Land Forces VIII",
@@ -359,7 +389,12 @@
         "name": "Land Forces IX",
         "row": 6,
         "prerequisites": ["Land Forces VIII"],
-      }
+      },
+      {
+        "name": "Navy IX",
+        "row": 8,
+        "prerequisites": ["Navy VIII"],
+      },
     ]
   },
   {
@@ -395,6 +430,11 @@
         "prerequisites": ["Land Forces IX"],
       },
       {
+        "name": "Navy X",
+        "row": 8,
+        "prerequisites": ["Navy IX"],
+      },
+      {
         "name": "Foreign Relations V",
         "row": 10,
         "prerequisites": ["Foreign Relations IV"],
@@ -414,7 +454,7 @@
         "name": "Future Tech",
         "row": 6,
         "prerequisites": ["Research X","Economics X","Growth X","Culture X","Land Forces X",
-                          "Foreign Relations V"],
+                          "Foreign Relations V","Navy X"],
         "uniques": ["Can be continually researched"],
     	  "quote": "'I think we agree, the past is over.' - George W. Bush",
         "civilopediaText": [{"text": "Who knows what the future holds?"}]
