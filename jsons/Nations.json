@@ -386,6 +386,8 @@
     "cities": ["Ottawa","Toronto","Montreal","Calgary","Edmonton","Winnipeg","Mississauga","Vancouver","Brampton","Hamilton",
 	           "Surrey","Quebec City","Halifax","Laval","London","Markham","Vaughan","Gatineau","Saskatoon","Kitchener",
 	           "Longueuil","Burnaby","Windsor","Regina","Oakville","Richmond","Richmond Hill","Burlington","Oshawa","Sherbrooke"],
+	"spyNames": ["Banu","Firuzeh","Laleh","Roghayeh","Yasamin","Darya","Niusha",
+	             "Arash","Firdaus","Kianoush","Saam","Soheil","Zubin","Rostam","Dariush"],
   },
   // City-States
   {
