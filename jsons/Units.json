@@ -66,7 +66,7 @@
     "rangedStrength": 50,
     "range": 5,
     "requiredTech": "Navy IV",
-    "attackSound": "tankShot",
+    "attackSound": "shipguns",
   },
   {
     "name": "Frigate",
@@ -77,7 +77,7 @@
     "rangedStrength": 40,
     "range": 2,
     "requiredTech": "Navy III",
-    "attackSound": "tankShot",
+    "attackSound": "shipguns",
   },
   {
     "name": "Battleship",
@@ -88,6 +88,6 @@
     "rangedStrength": 65,
     "range": 3,
     "requiredTech": "Navy IV",
-    "attackSound": "tankShot",
+    "attackSound": "shipguns",
   }
 ]
