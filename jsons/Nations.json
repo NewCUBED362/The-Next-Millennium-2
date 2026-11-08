@@ -381,7 +381,7 @@
     "outerColor": [255,255,255],
     "innerColor": [239,51,64],
     "uniqueName": "O Canada",
-    "cities": ["Ottawa"],
+    "cities": ["Ottawa","Toronto","Montreal","Calgary","Edmonton","Winnipeg","Mississauga","Vancouver","Brampton","Hamilton"],
   },
   // City-States
   {
