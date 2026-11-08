@@ -20,4 +20,8 @@
         "name": "Heavy Armor",
         "movementType": "Land"
     },
+    {
+        "name": "Naval",
+        "movementType": "Water"
+    },
 ]
