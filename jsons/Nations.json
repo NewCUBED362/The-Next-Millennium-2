@@ -359,6 +359,30 @@
 	"spyNames": ["Banu","Firuzeh","Laleh","Roghayeh","Yasamin","Darya","Niusha",
 	             "Arash","Firdaus","Kianoush","Saam","Soheil","Zubin","Rostam","Dariush"],
   },
+  {
+    "name": "Canada",
+    "leaderName": "Mark Carney",
+    "startBias": ["Desert","Plains"],
+
+    "declaringWar": "We have not sought this confrontation. But a nation that abandons its principles whenever it faces pressure has already surrendered something far more important than territory.",
+    "attacked": "You have brought destruction to our land, believing that force alone can determine the future. History has repeatedly shown the limits of such thinking.",
+    "defeated": "You may have defeated our armies, but the history of Iran did not begin with this government, and it will not end with its defeat.",
+    "denounced": "The judgement of foreign governments is temporary. The consequences of abandoning one's principles can endure for generations.",
+    "neutralDenouncing": "You speak of peace while continually creating the conditions for conflict. Such contradictions cannot be concealed behind diplomatic language.",
+    "hateDenouncing": "We have observed your conduct for some time. Your latest actions merely confirm what your previous ones had already demonstrated.",
+    "introduction": "Persia has witnessed the passage of empires, kings, and conquerors. Iran remains. Let us see whether our nations can find common ground.",
+
+    "neutralHello": "Good day to you!",
+    "hateHello": "Ahh... you...",
+    "tradeRequest": "Our nations possess resources, knowledge, and opportunities that need not remain separated by political disagreements. Let us pursue an arrangement founded upon mutual respect.",
+    "neutralRejectingDemand": "Your proposal has been considered. However, no agreement can be acceptable if it requires Iran to surrender its legitimate independence.",
+    "hateRejectingDemand": "You have no authority to dictate the decisions of the Islamic Republic. Your demand is rejected.",
+
+    "outerColor": [30,138,6],
+    "innerColor": [206,12,1],
+    "uniqueName": "Canada",
+    "cities": ["Ottawa"],
+  },
   // City-States
   {
     "name": "South Korea",
