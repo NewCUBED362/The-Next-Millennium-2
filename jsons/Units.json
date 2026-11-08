@@ -45,6 +45,7 @@
     "rangedStrength": 30,
     "range": 2,
     "requiredTech": "Land Forces II",
+    "uniques": ["[+50]% Strength <vs [Destroyer] units>"],
     "attackSound": "artillery",
   },
   {
@@ -90,6 +91,7 @@
     "rangedStrength": 65,
     "range": 3,
     "requiredTech": "Navy IV",
+    "uniques": ["[+50]% Strength <vs [Destroyer] units>"],
     "attackSound": "shipguns",
   }
 ]
