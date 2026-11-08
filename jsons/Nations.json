@@ -378,9 +378,9 @@
     "neutralRejectingDemand": "I appreciate the proposal, but the arrangement does not adequately protect Canada's long-term interests. We will have to decline.",
     "hateRejectingDemand": "Let me be clear: Canada's sovereignty is not a variable in your negotiations. We will not compromise it.",
 
-    "outerColor": [30,138,6],
-    "innerColor": [206,12,1],
-    "uniqueName": "Canada",
+    "outerColor": [255,255,255],
+    "innerColor": [239,51,64],
+    "uniqueName": "O Canada",
     "cities": ["Ottawa"],
   },
   // City-States
